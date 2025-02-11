@@ -1,0 +1,28 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="90" fill="#f8fafc" stroke="#0d47a1" stroke-width="2"/>
+  
+  <!-- Patient Cross Section -->
+  <ellipse cx="100" cy="100" rx="60" ry="45" fill="#f5f5f5" stroke="#0d47a1" stroke-width="2"/>
+  
+  <!-- Target Area -->
+  <circle cx="100" cy="100" r="15" fill="none" stroke="#d32f2f" stroke-width="2" stroke-dasharray="4"/>
+  
+  <!-- Radiation Dose Distribution (Concentric) -->
+  <circle cx="100" cy="100" r="35" fill="none" stroke="#ef5350" stroke-width="1.5" opacity="0.2"/>
+  <circle cx="100" cy="100" r="30" fill="none" stroke="#ef5350" stroke-width="1.5" opacity="0.3"/>
+  <circle cx="100" cy="100" r="25" fill="none" stroke="#ef5350" stroke-width="1.5" opacity="0.4"/>
+  <circle cx="100" cy="100" r="20" fill="none" stroke="#ef5350" stroke-width="1.5" opacity="0.5"/>
+  
+  <!-- Radiation Beams -->
+  <path d="M100 45 L100 65" stroke="#1976d2" stroke-width="2"/>
+  <path d="M45 100 L65 100" stroke="#1976d2" stroke-width="2"/>
+  <path d="M135 100 L155 100" stroke="#1976d2" stroke-width="2"/>
+  <path d="M100 135 L100 155" stroke="#1976d2" stroke-width="2"/>
+  
+  <!-- Beam Direction Indicators -->
+  <path d="M100 45 L95 55 L105 55 Z" fill="#1976d2"/>
+  <path d="M45 100 L55 95 L55 105 Z" fill="#1976d2"/>
+  <path d="M155 100 L145 95 L145 105 Z" fill="#1976d2"/>
+  <path d="M100 155 L95 145 L105 145 Z" fill="#1976d2"/>
+</svg>
