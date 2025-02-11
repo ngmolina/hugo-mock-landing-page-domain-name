@@ -10,15 +10,15 @@ These are features that are currently implemented in Med.AI and featured on the 
 
 1. As a healthcare provider, I want to use LLMs to analyze patient documents and generate one-liners, so I can quickly assess and document patient conditions.
 
-2. As a clinician, I want to automatically generate and view contours on CT scans using an AI model, so I can streamline the treatment planning process and ensure consistency.
+2. As a radiation oncologist, I want to automatically generate and view contours on CT scans using an AI model, so I can streamline the treatment planning process and ensure consistency.
 
-3. As a radiation oncologist, I want the AI to suggest optimal treatment plans based on patient data and contours, so I can streamline the planning process while maintaining quality.
+3. As a dosimetrist, I want the AI to suggest optimal treatment plans based on patient data and contours, so I can streamline the planning process while maintaining quality.
 
 ### Other Features
 
-4. As a healthcare provider, I want secure user authentication and role-based access control, so I can safely access patient information while maintaining HIPAA compliance.
+4. As a clinician, I want to integrate Med.AI with our existing clinical systems (e.g., Orthanc PACS), so we can maintain a seamless workflow.
 
-5. As a clinician, I want to view and compare multiple AI-generated responses for patient documentation, so I can select the most accurate and appropriate summary.
+5. As a medical resident, I want to view and compare multiple AI-generated responses for patient documentation, so I can select the most accurate and appropriate summary.
 
 6. As a medical professional, I want to monitor the progress of AI agents working on my patients' cases through a visual workflow dashboard, so I can track and manage clinical tasks efficiently.
 
@@ -28,7 +28,7 @@ These are features that are currently implemented in Med.AI and featured on the 
 
 8. As a clinician, I want to provide feedback on AI-generated results and receive improved outputs, so I can ensure accuracy and help train the system for better performance.
 
-9. As a clinician, I want to integrate Med.AI with our existing clinical systems (e.g., Orthanc PACS), so we can maintain a seamless workflow.
+9. As a healthcare provider, I want secure user authentication and role-based access control, so I can safely access patient information while maintaining HIPAA compliance.
 
 10. As a medical physicist, I want to review and validate AI-generated contours before approval, so we can ensure treatment safety and accuracy.
 
