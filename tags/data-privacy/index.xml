@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Privacy on Med.AI</title>
+    <link>https://ngmolina.github.io/hugo-mock-landing-page/tags/data-privacy/</link>
+    <description>Recent content in Data Privacy on Med.AI</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Nicholas Molina</copyright>
+    <lastBuildDate>Tue, 11 Feb 2025 00:47:58 -0500</lastBuildDate>
+    <atom:link href="https://ngmolina.github.io/hugo-mock-landing-page/tags/data-privacy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Med.AI&#39;s Approach to HIPAA Compliance and Data Security</title>
+      <link>https://ngmolina.github.io/hugo-mock-landing-page/post/hipaa-data-security/</link>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://ngmolina.github.io/hugo-mock-landing-page/post/hipaa-data-security/</guid>
+      <description>&lt;p&gt;In healthcare technology, security isn&amp;rsquo;t just a feature—it&amp;rsquo;s a fundamental requirement. Med.AI takes a comprehensive approach to ensuring HIPAA compliance and data security.&lt;/p&gt;&#xA;&lt;h2 id=&#34;our-security-framework&#34;&gt;Our Security Framework&lt;/h2&gt;&#xA;&lt;h3 id=&#34;data-protection&#34;&gt;Data Protection&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;End-to-end encryption&lt;/li&gt;&#xA;&lt;li&gt;Secure data transmission&lt;/li&gt;&#xA;&lt;li&gt;Protected health information (PHI) safeguards&lt;/li&gt;&#xA;&lt;li&gt;Regular security audits&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;hipaa-compliance&#34;&gt;HIPAA Compliance&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Strict access controls&lt;/li&gt;&#xA;&lt;li&gt;Audit trail maintenance&lt;/li&gt;&#xA;&lt;li&gt;Data anonymization&lt;/li&gt;&#xA;&lt;li&gt;Secure cloud storage&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;technical-implementation&#34;&gt;Technical Implementation&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;AWS secure infrastructure&lt;/li&gt;&#xA;&lt;li&gt;Role-based access control&lt;/li&gt;&#xA;&lt;li&gt;Automated compliance checking&lt;/li&gt;&#xA;&lt;li&gt;Regular security updates&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;privacy-measures&#34;&gt;Privacy Measures&lt;/h2&gt;&#xA;&lt;h3 id=&#34;data-handling&#34;&gt;Data Handling&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Automated anonymization&lt;/li&gt;&#xA;&lt;li&gt;Secure data processing&lt;/li&gt;&#xA;&lt;li&gt;Limited data retention&lt;/li&gt;&#xA;&lt;li&gt;Controlled access protocols&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;user-authentication&#34;&gt;User Authentication&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Multi-factor authentication&lt;/li&gt;&#xA;&lt;li&gt;Session management&lt;/li&gt;&#xA;&lt;li&gt;Activity monitoring&lt;/li&gt;&#xA;&lt;li&gt;Secure password policies&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;ongoing-commitment&#34;&gt;Ongoing Commitment&lt;/h2&gt;&#xA;&lt;p&gt;We continuously:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

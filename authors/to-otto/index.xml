@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>To Otto on Med.AI</title>
+    <link>http://localhost:1313/hugo-bootstrap-theme/authors/to-otto/</link>
+    <description>Recent content in To Otto on Med.AI</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Open-source &lt;a class=&#34;text-muted text-decoration-none&#34; href=&#34;https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE&#34;&gt;MIT&lt;/a&gt; Licensed.</copyright>
+    <lastBuildDate>Tue, 11 Feb 2025 00:18:09 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugo-bootstrap-theme/authors/to-otto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bootstrap 5.3.0</title>
+      <link>http://localhost:1313/hugo-bootstrap-theme/post/bootstrap-5-3-0/</link>
+      <pubDate>Tue, 30 May 2023 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/hugo-bootstrap-theme/post/bootstrap-5-3-0/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;bootstrap-5-3.png&#34; alt=&#34;Bootstrap 5 3&#34;&gt;&#xA;{ .img-fluid }&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;It’s official, the final stable release of v5.3.0 has landed! It’s been a monumental effort to revamp our codebase for CSS variables and color modes, one that will see continued changes leading up to an eventual Bootstrap 6. And we’re so excited to finally ship it!&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;On top of all the work that’s gone into this release, a lot has happened behind the scenes since we shipped our pre-releases. Keep reading to learn everything that’s &lt;a href=&#34;https://blog.getbootstrap.com/2023/05/30/bootstrap-5-3-0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;new in v5.3.0&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dosimetry on Med.AI</title>
+    <link>https://ngmolina.github.io/hugo-mock-landing-page/tags/dosimetry/</link>
+    <description>Recent content in Dosimetry on Med.AI</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Nicholas Molina</copyright>
+    <lastBuildDate>Tue, 11 Feb 2025 01:06:51 -0500</lastBuildDate>
+    <atom:link href="https://ngmolina.github.io/hugo-mock-landing-page/tags/dosimetry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI-Driven Radiation Treatment Planning: Precision and Efficiency</title>
+      <link>https://ngmolina.github.io/hugo-mock-landing-page/post/ai-treatment-planning/</link>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://ngmolina.github.io/hugo-mock-landing-page/post/ai-treatment-planning/</guid>
+      <description>&lt;p&gt;Treatment planning in radiation oncology requires precise calculations and careful consideration of numerous variables. Med.AI&amp;rsquo;s AI-driven approach is transforming this critical process.&lt;/p&gt;&#xA;&lt;h2 id=&#34;intelligent-planning-systems&#34;&gt;Intelligent Planning Systems&lt;/h2&gt;&#xA;&lt;h3 id=&#34;ai-powered-optimization&#34;&gt;AI-Powered Optimization&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Automated dose distribution calculations&lt;/li&gt;&#xA;&lt;li&gt;Real-time plan adjustments&lt;/li&gt;&#xA;&lt;li&gt;Multi-criteria optimization&lt;/li&gt;&#xA;&lt;li&gt;Organ-at-risk sparing&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;smart-algorithms&#34;&gt;Smart Algorithms&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Machine learning for dose prediction&lt;/li&gt;&#xA;&lt;li&gt;Adaptive planning capabilities&lt;/li&gt;&#xA;&lt;li&gt;Historical data integration&lt;/li&gt;&#xA;&lt;li&gt;Patient-specific customization&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;clinical-benefits&#34;&gt;Clinical Benefits&lt;/h2&gt;&#xA;&lt;h3 id=&#34;enhanced-efficiency&#34;&gt;Enhanced Efficiency&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Faster plan generation&lt;/li&gt;&#xA;&lt;li&gt;Reduced planning time&lt;/li&gt;&#xA;&lt;li&gt;Automated quality checks&lt;/li&gt;&#xA;&lt;li&gt;Streamlined workflow&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;improved-accuracy&#34;&gt;Improved Accuracy&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Precise dose calculations&lt;/li&gt;&#xA;&lt;li&gt;Consistent plan quality&lt;/li&gt;&#xA;&lt;li&gt;Reduced variability&lt;/li&gt;&#xA;&lt;li&gt;Better treatment outcomes&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;future-innovations&#34;&gt;Future Innovations&lt;/h2&gt;&#xA;&lt;p&gt;We&amp;rsquo;re developing:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Treatment Planning Agent</title>
+      <link>https://ngmolina.github.io/hugo-mock-landing-page/page/treatment-planning-agent/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ngmolina.github.io/hugo-mock-landing-page/page/treatment-planning-agent/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The Treatment Planning Agent leverages artificial intelligence to optimize radiation therapy treatment plans. By analyzing patient data, imaging, and contours, this system helps create precise and efficient treatment strategies while maintaining optimal dose distribution.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;&#xA;&lt;h3 id=&#34;intelligent-planning&#34;&gt;Intelligent Planning&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Automated plan generation&lt;/li&gt;&#xA;&lt;li&gt;Dose optimization&lt;/li&gt;&#xA;&lt;li&gt;Organ-at-risk sparing&lt;/li&gt;&#xA;&lt;li&gt;Treatment strategy recommendations&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;dose-analysis&#34;&gt;Dose Analysis&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Real-time dose calculation&lt;/li&gt;&#xA;&lt;li&gt;3D dose visualization&lt;/li&gt;&#xA;&lt;li&gt;DVH analysis&lt;/li&gt;&#xA;&lt;li&gt;Plan comparison tools&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;quality-management&#34;&gt;Quality Management&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Automated plan checks&lt;/li&gt;&#xA;&lt;li&gt;Compliance verification&lt;/li&gt;&#xA;&lt;li&gt;Documentation generation&lt;/li&gt;&#xA;&lt;li&gt;Review workflow integration&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;technical-capabilities&#34;&gt;Technical Capabilities&lt;/h2&gt;&#xA;&lt;h3 id=&#34;ai-powered-optimization&#34;&gt;AI-Powered Optimization&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Machine learning algorithms&lt;/li&gt;&#xA;&lt;li&gt;Adaptive planning&lt;/li&gt;&#xA;&lt;li&gt;Multi-criteria optimization&lt;/li&gt;&#xA;&lt;li&gt;Real-time adjustments&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;clinical-integration&#34;&gt;Clinical Integration&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Standard protocol support&lt;/li&gt;&#xA;&lt;li&gt;System interoperability&lt;/li&gt;&#xA;&lt;li&gt;Workflow automation&lt;/li&gt;&#xA;&lt;li&gt;Data synchronization&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;clinical-benefits&#34;&gt;Clinical Benefits&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Efficiency&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="90" fill="#f8fafc" stroke="#0d47a1" stroke-width="2"/>
+  
+  <!-- CT Scan Frame -->
+  <rect x="50" y="50" width="100" height="100" rx="5" fill="white" stroke="#0d47a1" stroke-width="2"/>
+  
+  <!-- Scan Content -->
+  <circle cx="100" cy="100" r="35" fill="#e3f2fd"/>
+  
+  <!-- AI-Generated Contour -->
+  <path d="M70 100 Q100 60 130 100 Q100 140 70 100" 
+        fill="none" stroke="#1976d2" stroke-width="2" stroke-dasharray="4"/>
+  
+  <!-- Measurement Points -->
+  <circle cx="70" cy="100" r="3" fill="#1976d2"/>
+  <circle cx="130" cy="100" r="3" fill="#1976d2"/>
+  <circle cx="100" cy="60" r="3" fill="#1976d2"/>
+  <circle cx="100" cy="140" r="3" fill="#1976d2"/>
+</svg>
