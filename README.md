@@ -1,4 +1,4 @@
-# hugo-mock-landing-page
+# hugo-mock-landing-page-domain-name
 
 ## Hugo GitHub Pages Workflow
 
