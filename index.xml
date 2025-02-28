@@ -1,118 +1,306 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Med.AI</title>
-    <link>https://ngmolina.github.io/hugo-mock-landing-page/</link>
-    <description>Recent content on Med.AI</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <copyright>Nicholas Molina</copyright>
-    <lastBuildDate>Tue, 11 Feb 2025 01:06:55 -0500</lastBuildDate>
-    <atom:link href="https://ngmolina.github.io/hugo-mock-landing-page/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>AI-Driven Radiation Treatment Planning: Precision and Efficiency</title>
-      <link>https://ngmolina.github.io/hugo-mock-landing-page/post/ai-treatment-planning/</link>
-      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://ngmolina.github.io/hugo-mock-landing-page/post/ai-treatment-planning/</guid>
-      <description>&lt;p&gt;Treatment planning in radiation oncology requires precise calculations and careful consideration of numerous variables. Med.AI&amp;rsquo;s AI-driven approach is transforming this critical process.&lt;/p&gt;&#xA;&lt;h2 id=&#34;intelligent-planning-systems&#34;&gt;Intelligent Planning Systems&lt;/h2&gt;&#xA;&lt;h3 id=&#34;ai-powered-optimization&#34;&gt;AI-Powered Optimization&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Automated dose distribution calculations&lt;/li&gt;&#xA;&lt;li&gt;Real-time plan adjustments&lt;/li&gt;&#xA;&lt;li&gt;Multi-criteria optimization&lt;/li&gt;&#xA;&lt;li&gt;Organ-at-risk sparing&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;smart-algorithms&#34;&gt;Smart Algorithms&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Machine learning for dose prediction&lt;/li&gt;&#xA;&lt;li&gt;Adaptive planning capabilities&lt;/li&gt;&#xA;&lt;li&gt;Historical data integration&lt;/li&gt;&#xA;&lt;li&gt;Patient-specific customization&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;clinical-benefits&#34;&gt;Clinical Benefits&lt;/h2&gt;&#xA;&lt;h3 id=&#34;enhanced-efficiency&#34;&gt;Enhanced Efficiency&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Faster plan generation&lt;/li&gt;&#xA;&lt;li&gt;Reduced planning time&lt;/li&gt;&#xA;&lt;li&gt;Automated quality checks&lt;/li&gt;&#xA;&lt;li&gt;Streamlined workflow&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;improved-accuracy&#34;&gt;Improved Accuracy&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Precise dose calculations&lt;/li&gt;&#xA;&lt;li&gt;Consistent plan quality&lt;/li&gt;&#xA;&lt;li&gt;Reduced variability&lt;/li&gt;&#xA;&lt;li&gt;Better treatment outcomes&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;future-innovations&#34;&gt;Future Innovations&lt;/h2&gt;&#xA;&lt;p&gt;We&amp;rsquo;re developing:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI-Powered Medical Documentation: Transforming Patient Care Documentation</title>
-      <link>https://ngmolina.github.io/hugo-mock-landing-page/post/ai-medical-documentation/</link>
-      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://ngmolina.github.io/hugo-mock-landing-page/post/ai-medical-documentation/</guid>
-      <description>&lt;p&gt;Medical documentation has long been a time-consuming yet critical aspect of healthcare. Med.AI is transforming this process through advanced AI technologies, allowing healthcare providers to focus more on patient care.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-challenge-of-medical-documentation&#34;&gt;The Challenge of Medical Documentation&lt;/h2&gt;&#xA;&lt;p&gt;Healthcare providers spend countless hours on documentation, often having to:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Review lengthy patient histories&lt;/li&gt;&#xA;&lt;li&gt;Summarize complex medical conditions&lt;/li&gt;&#xA;&lt;li&gt;Generate treatment summaries&lt;/li&gt;&#xA;&lt;li&gt;Create detailed patient records&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;medais-solution&#34;&gt;Med.AI&amp;rsquo;s Solution&lt;/h2&gt;&#xA;&lt;p&gt;Our platform employs state-of-the-art Language Learning Models (LLMs) to:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Introducing Med.AI: Revolutionizing Radiation Oncology Workflows</title>
-      <link>https://ngmolina.github.io/hugo-mock-landing-page/post/introducing-med-ai/</link>
-      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://ngmolina.github.io/hugo-mock-landing-page/post/introducing-med-ai/</guid>
-      <description>&lt;p&gt;Med.AI emerges as a transformative solution in radiation oncology, combining cutting-edge AI technology with clinical workflows to enhance patient care and improve operational efficiency.&lt;/p&gt;&#xA;&lt;h2 id=&#34;our-mission&#34;&gt;Our Mission&lt;/h2&gt;&#xA;&lt;p&gt;At Med.AI, we&amp;rsquo;re committed to revolutionizing radiation oncology through intelligent automation. Our platform integrates seamlessly with existing clinical systems while introducing powerful AI capabilities that assist medical professionals in multiple aspects of their workflow.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;&#xA;&lt;h3 id=&#34;smart-patient-documentation&#34;&gt;Smart Patient Documentation&lt;/h3&gt;&#xA;&lt;p&gt;Using advanced Language Learning Models (LLMs), Med.AI automates the creation of patient documentation, generating accurate and concise medical summaries.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Med.AI&#39;s Approach to HIPAA Compliance and Data Security</title>
-      <link>https://ngmolina.github.io/hugo-mock-landing-page/post/hipaa-data-security/</link>
-      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://ngmolina.github.io/hugo-mock-landing-page/post/hipaa-data-security/</guid>
-      <description>&lt;p&gt;In healthcare technology, security isn&amp;rsquo;t just a feature—it&amp;rsquo;s a fundamental requirement. Med.AI takes a comprehensive approach to ensuring HIPAA compliance and data security.&lt;/p&gt;&#xA;&lt;h2 id=&#34;our-security-framework&#34;&gt;Our Security Framework&lt;/h2&gt;&#xA;&lt;h3 id=&#34;data-protection&#34;&gt;Data Protection&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;End-to-end encryption&lt;/li&gt;&#xA;&lt;li&gt;Secure data transmission&lt;/li&gt;&#xA;&lt;li&gt;Protected health information (PHI) safeguards&lt;/li&gt;&#xA;&lt;li&gt;Regular security audits&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;hipaa-compliance&#34;&gt;HIPAA Compliance&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Strict access controls&lt;/li&gt;&#xA;&lt;li&gt;Audit trail maintenance&lt;/li&gt;&#xA;&lt;li&gt;Data anonymization&lt;/li&gt;&#xA;&lt;li&gt;Secure cloud storage&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;technical-implementation&#34;&gt;Technical Implementation&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;AWS secure infrastructure&lt;/li&gt;&#xA;&lt;li&gt;Role-based access control&lt;/li&gt;&#xA;&lt;li&gt;Automated compliance checking&lt;/li&gt;&#xA;&lt;li&gt;Regular security updates&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;privacy-measures&#34;&gt;Privacy Measures&lt;/h2&gt;&#xA;&lt;h3 id=&#34;data-handling&#34;&gt;Data Handling&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Automated anonymization&lt;/li&gt;&#xA;&lt;li&gt;Secure data processing&lt;/li&gt;&#xA;&lt;li&gt;Limited data retention&lt;/li&gt;&#xA;&lt;li&gt;Controlled access protocols&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;user-authentication&#34;&gt;User Authentication&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Multi-factor authentication&lt;/li&gt;&#xA;&lt;li&gt;Session management&lt;/li&gt;&#xA;&lt;li&gt;Activity monitoring&lt;/li&gt;&#xA;&lt;li&gt;Secure password policies&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;ongoing-commitment&#34;&gt;Ongoing Commitment&lt;/h2&gt;&#xA;&lt;p&gt;We continuously:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Future of Auto-Contouring in Radiation Treatment</title>
-      <link>https://ngmolina.github.io/hugo-mock-landing-page/post/auto-contouring-future/</link>
-      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://ngmolina.github.io/hugo-mock-landing-page/post/auto-contouring-future/</guid>
-      <description>&lt;p&gt;Auto-contouring represents one of the most significant advancements in radiation oncology, and Med.AI is at the forefront of this revolutionary technology.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-evolution-of-contouring&#34;&gt;The Evolution of Contouring&lt;/h2&gt;&#xA;&lt;h3 id=&#34;traditional-challenges&#34;&gt;Traditional Challenges&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Time-intensive manual contouring&lt;/li&gt;&#xA;&lt;li&gt;Variability between practitioners&lt;/li&gt;&#xA;&lt;li&gt;Complex anatomical structures&lt;/li&gt;&#xA;&lt;li&gt;Need for high precision&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;medais-automated-solution&#34;&gt;Med.AI&amp;rsquo;s Automated Solution&lt;/h3&gt;&#xA;&lt;p&gt;Our platform brings several innovations to the contouring process:&lt;/p&gt;&#xA;&lt;h4 id=&#34;advanced-ai-models&#34;&gt;Advanced AI Models&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Trained on extensive medical imaging datasets&lt;/li&gt;&#xA;&lt;li&gt;Real-time contour generation&lt;/li&gt;&#xA;&lt;li&gt;High accuracy and consistency&lt;/li&gt;&#xA;&lt;li&gt;Adaptable to different imaging modalities&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;quality-assurance&#34;&gt;Quality Assurance&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Automated verification systems&lt;/li&gt;&#xA;&lt;li&gt;Comparison with established standards&lt;/li&gt;&#xA;&lt;li&gt;Easy manual adjustment capabilities&lt;/li&gt;&#xA;&lt;li&gt;Version control and tracking&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;integration-features&#34;&gt;Integration Features&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Seamless PACS integration&lt;/li&gt;&#xA;&lt;li&gt;Support for multiple imaging formats&lt;/li&gt;&#xA;&lt;li&gt;Real-time collaboration tools&lt;/li&gt;&#xA;&lt;li&gt;Efficient workflow management&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;clinical-impact&#34;&gt;Clinical Impact&lt;/h2&gt;&#xA;&lt;p&gt;The implementation of Med.AI&amp;rsquo;s auto-contouring has shown:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Bootstrap 5.3.0</title>
-      <link>https://ngmolina.github.io/hugo-mock-landing-page/post/bootstrap-5-3-0/</link>
-      <pubDate>Tue, 30 May 2023 00:00:00 +0100</pubDate>
-      <guid>https://ngmolina.github.io/hugo-mock-landing-page/post/bootstrap-5-3-0/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;bootstrap-5-3.png&#34; alt=&#34;Bootstrap 5 3&#34;&gt;&#xA;{ .img-fluid }&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;It’s official, the final stable release of v5.3.0 has landed! It’s been a monumental effort to revamp our codebase for CSS variables and color modes, one that will see continued changes leading up to an eventual Bootstrap 6. And we’re so excited to finally ship it!&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;On top of all the work that’s gone into this release, a lot has happened behind the scenes since we shipped our pre-releases. Keep reading to learn everything that’s &lt;a href=&#34;https://blog.getbootstrap.com/2023/05/30/bootstrap-5-3-0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;new in v5.3.0&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Bootstrap 5.2.0 beta</title>
-      <link>https://ngmolina.github.io/hugo-mock-landing-page/post/bootstrap-5-2-0-beta/</link>
-      <pubDate>Fri, 13 May 2022 13:00:44 +0100</pubDate>
-      <guid>https://ngmolina.github.io/hugo-mock-landing-page/post/bootstrap-5-2-0-beta/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;bootstrap-5-2-0-beta.png&#34; alt=&#34;Bootstrap 5 2 0 Beta&#34;&gt;&#xA;{ .img-fluid }&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;It’s the biggest release since v5 itself—&lt;strong&gt;Bootstrap v5.2.0-beta1 is here!&lt;/strong&gt; This release features redesigned docs, CSS variables for all our components, responsive offcanvas, new helpers and utilities, refined buttons and inputs, and lots of improvements under the hood.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Given the size of the update and time since our last release, we’re doing something different and shipping it as a beta first. &lt;a href=&#34;https://blog.getbootstrap.com/2022/05/13/bootstrap-5-2-0-beta/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Keep reading for details&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>https://ngmolina.github.io/hugo-mock-landing-page/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ngmolina.github.io/hugo-mock-landing-page/about/</guid>
-      <description>&lt;h1 id=&#34;about-us&#34;&gt;About Us&lt;/h1&gt;&#xA;&lt;p&gt;Made with ❤️ by the &lt;em&gt;Hugo Bootstrap Theme&lt;/em&gt; &lt;a href=&#34;https://github.com/filipecarneiro/hugo-bootstrap-theme/graphs/contributors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;team&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Auto-Contouring Agent</title>
-      <link>https://ngmolina.github.io/hugo-mock-landing-page/page/contouring-agent/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ngmolina.github.io/hugo-mock-landing-page/page/contouring-agent/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The Auto-Contouring Agent employs state-of-the-art artificial intelligence to automate and optimize the contouring process in radiation treatment planning. This sophisticated system helps clinicians save time while maintaining high accuracy in defining treatment areas.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;&#xA;&lt;h3 id=&#34;automated-contouring&#34;&gt;Automated Contouring&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Real-time contour generation&lt;/li&gt;&#xA;&lt;li&gt;Multi-structure detection&lt;/li&gt;&#xA;&lt;li&gt;Adaptive refinement&lt;/li&gt;&#xA;&lt;li&gt;Quality assurance tools&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;advanced-visualization&#34;&gt;Advanced Visualization&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Interactive 3D viewing&lt;/li&gt;&#xA;&lt;li&gt;Multi-planar reconstruction&lt;/li&gt;&#xA;&lt;li&gt;Contour overlay options&lt;/li&gt;&#xA;&lt;li&gt;Real-time adjustments&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;dicom-integration&#34;&gt;DICOM Integration&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Seamless PACS connectivity&lt;/li&gt;&#xA;&lt;li&gt;Orthanc server integration&lt;/li&gt;&#xA;&lt;li&gt;Efficient file handling&lt;/li&gt;&#xA;&lt;li&gt;Standardized output&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;technical-specifications&#34;&gt;Technical Specifications&lt;/h2&gt;&#xA;&lt;h3 id=&#34;ai-model&#34;&gt;AI Model&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Deep learning architecture&lt;/li&gt;&#xA;&lt;li&gt;Trained on extensive datasets&lt;/li&gt;&#xA;&lt;li&gt;Regular model updates&lt;/li&gt;&#xA;&lt;li&gt;Configurable parameters&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;quality-control&#34;&gt;Quality Control&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Automated verification&lt;/li&gt;&#xA;&lt;li&gt;Consistency checks&lt;/li&gt;&#xA;&lt;li&gt;Manual override options&lt;/li&gt;&#xA;&lt;li&gt;Version control&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;clinical-applications&#34;&gt;Clinical Applications&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Treatment Planning&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Code of Conduct</title>
-      <link>https://ngmolina.github.io/hugo-mock-landing-page/code-of-conduct/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ngmolina.github.io/hugo-mock-landing-page/code-of-conduct/</guid>
-      <description>&lt;h1 id=&#34;contributor-covenant-code-of-conduct&#34;&gt;Contributor Covenant Code of Conduct&lt;/h1&gt;&#xA;&lt;h2 id=&#34;our-pledge&#34;&gt;Our Pledge&lt;/h2&gt;&#xA;&lt;p&gt;We as members, contributors, and leaders pledge to make participation in our&#xA;community a harassment-free experience for everyone, regardless of age, body&#xA;size, visible or invisible disability, ethnicity, sex characteristics, gender&#xA;identity and expression, level of experience, education, socio-economic status,&#xA;nationality, personal appearance, race, caste, color, religion, or sexual&#xA;identity and orientation.&lt;/p&gt;&#xA;&lt;p&gt;We pledge to act and interact in ways that contribute to an open, welcoming,&#xA;diverse, inclusive, and healthy community.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Contact</title>
-      <link>https://ngmolina.github.io/hugo-mock-landing-page/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ngmolina.github.io/hugo-mock-landing-page/contact/</guid>
-      <description>&lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;&#xA;&lt;p&gt;For inquiries about Med.AI, please reach out to our team:&lt;/p&gt;&#xA;&lt;h2 id=&#34;development-team&#34;&gt;Development Team&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Project Lead&lt;/strong&gt;: Professor Rafe McBeth&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Assistant Professor of Clinical Radiation Oncology&lt;/li&gt;&#xA;&lt;li&gt;Medical Physicist&lt;/li&gt;&#xA;&lt;li&gt;Director of AI at Penn Medicine&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;technical-support--development&#34;&gt;Technical Support &amp;amp; Development&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Nicholas Molina - System Architecture &amp;amp; Integration&lt;/li&gt;&#xA;&lt;li&gt;Aarti Bhamidipati - Frontend Development &amp;amp; UI Design&lt;/li&gt;&#xA;&lt;li&gt;Brian Lu - Backend Development&lt;/li&gt;&#xA;&lt;li&gt;Ben Yoon - AI Implementation &amp;amp; Computer Vision&lt;/li&gt;&#xA;&lt;li&gt;Henry Casper - Full-stack Development&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;location&#34;&gt;Location&lt;/h2&gt;&#xA;&lt;p&gt;Penn Medicine&#xA;Department of Radiation Oncology&#xA;Philadelphia, PA&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Patient Intake &amp; Documentation Agent</title>
-      <link>https://ngmolina.github.io/hugo-mock-landing-page/page/patient-intake-agent/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ngmolina.github.io/hugo-mock-landing-page/page/patient-intake-agent/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The Patient Intake Agent streamlines the documentation process in radiation oncology by leveraging advanced Language Learning Models (LLMs). This intelligent system processes patient records, generates concise summaries, and helps maintain accurate documentation while saving valuable clinical time.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;&#xA;&lt;h3 id=&#34;multiple-ai-model-support&#34;&gt;Multiple AI Model Support&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Integration with leading LLMs:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;GPT&lt;/li&gt;&#xA;&lt;li&gt;Claude&lt;/li&gt;&#xA;&lt;li&gt;Llama&lt;/li&gt;&#xA;&lt;li&gt;Hugging Face models&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Compare outputs across models&lt;/li&gt;&#xA;&lt;li&gt;Select optimal results&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;automated-documentation&#34;&gt;Automated Documentation&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Generate medical one-liners&lt;/li&gt;&#xA;&lt;li&gt;Process patient histories&lt;/li&gt;&#xA;&lt;li&gt;Create structured reports&lt;/li&gt;&#xA;&lt;li&gt;Extract key clinical information&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;interactive-feedback-system&#34;&gt;Interactive Feedback System&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Real-time result improvement&lt;/li&gt;&#xA;&lt;li&gt;User feedback integration&lt;/li&gt;&#xA;&lt;li&gt;Continuous model refinement&lt;/li&gt;&#xA;&lt;li&gt;Quality assurance checks&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;technical-details&#34;&gt;Technical Details&lt;/h2&gt;&#xA;&lt;h3 id=&#34;hipaa-compliance&#34;&gt;HIPAA Compliance&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Secure data processing&lt;/li&gt;&#xA;&lt;li&gt;Automated anonymization&lt;/li&gt;&#xA;&lt;li&gt;Protected health information safeguards&lt;/li&gt;&#xA;&lt;li&gt;Audit trail maintenance&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;system-integration&#34;&gt;System Integration&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Seamless EMR integration&lt;/li&gt;&#xA;&lt;li&gt;Structured data output&lt;/li&gt;&#xA;&lt;li&gt;Standardized formatting&lt;/li&gt;&#xA;&lt;li&gt;Easy export capabilities&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;benefits&#34;&gt;Benefits&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Time Savings&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Privacy Policy</title>
-      <link>https://ngmolina.github.io/hugo-mock-landing-page/privacy-policy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ngmolina.github.io/hugo-mock-landing-page/privacy-policy/</guid>
-      <description>&lt;h1 id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt;: We do not use cookies and we do not collect any personal data.&lt;/p&gt;&#xA;&lt;h2 id=&#34;website-visitors&#34;&gt;Website visitors&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;No personal information is collected.&lt;/li&gt;&#xA;&lt;li&gt;No information is stored in the browser.&lt;/li&gt;&#xA;&lt;li&gt;No information is shared with, sent to or sold to third-parties.&lt;/li&gt;&#xA;&lt;li&gt;No information is shared with advertising companies.&lt;/li&gt;&#xA;&lt;li&gt;No information is mined and harvested for personal and behavioral trends.&lt;/li&gt;&#xA;&lt;li&gt;No information is monetized.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;information-we-collect-and-what-we-use-it-for&#34;&gt;Information we collect and what we use it for&lt;/h2&gt;&#xA;&lt;p&gt;The server hosting this site can collect the following information:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Sobre</title>
-      <link>https://ngmolina.github.io/hugo-mock-landing-page/about.pt/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ngmolina.github.io/hugo-mock-landing-page/about.pt/</guid>
-      <description>&lt;h1 id=&#34;sobre-nós&#34;&gt;Sobre nós&lt;/h1&gt;&#xA;&lt;p&gt;Feito com ❤️ pela &lt;a href=&#34;https://github.com/filipecarneiro/hugo-bootstrap-theme/graphs/contributors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;equipa&lt;/a&gt; &lt;em&gt;Hugo Bootstrap Theme&lt;/em&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Treatment Planning Agent</title>
-      <link>https://ngmolina.github.io/hugo-mock-landing-page/page/treatment-planning-agent/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ngmolina.github.io/hugo-mock-landing-page/page/treatment-planning-agent/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The Treatment Planning Agent leverages artificial intelligence to optimize radiation therapy treatment plans. By analyzing patient data, imaging, and contours, this system helps create precise and efficient treatment strategies while maintaining optimal dose distribution.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;&#xA;&lt;h3 id=&#34;intelligent-planning&#34;&gt;Intelligent Planning&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Automated plan generation&lt;/li&gt;&#xA;&lt;li&gt;Dose optimization&lt;/li&gt;&#xA;&lt;li&gt;Organ-at-risk sparing&lt;/li&gt;&#xA;&lt;li&gt;Treatment strategy recommendations&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;dose-analysis&#34;&gt;Dose Analysis&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Real-time dose calculation&lt;/li&gt;&#xA;&lt;li&gt;3D dose visualization&lt;/li&gt;&#xA;&lt;li&gt;DVH analysis&lt;/li&gt;&#xA;&lt;li&gt;Plan comparison tools&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;quality-management&#34;&gt;Quality Management&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Automated plan checks&lt;/li&gt;&#xA;&lt;li&gt;Compliance verification&lt;/li&gt;&#xA;&lt;li&gt;Documentation generation&lt;/li&gt;&#xA;&lt;li&gt;Review workflow integration&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;technical-capabilities&#34;&gt;Technical Capabilities&lt;/h2&gt;&#xA;&lt;h3 id=&#34;ai-powered-optimization&#34;&gt;AI-Powered Optimization&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Machine learning algorithms&lt;/li&gt;&#xA;&lt;li&gt;Adaptive planning&lt;/li&gt;&#xA;&lt;li&gt;Multi-criteria optimization&lt;/li&gt;&#xA;&lt;li&gt;Real-time adjustments&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;clinical-integration&#34;&gt;Clinical Integration&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Standard protocol support&lt;/li&gt;&#xA;&lt;li&gt;System interoperability&lt;/li&gt;&#xA;&lt;li&gt;Workflow automation&lt;/li&gt;&#xA;&lt;li&gt;Data synchronization&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;clinical-benefits&#34;&gt;Clinical Benefits&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Efficiency&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Med.AI</title><link>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/</link><description>Recent content on Med.AI</description><generator>Hugo</generator><language>en</language><copyright>Nicholas Molina</copyright><lastBuildDate>Fri, 28 Feb 2025 20:23:33 +0000</lastBuildDate><atom:link href="https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/index.xml" rel="self" type="application/rss+xml"/><item><title>AI-Driven Radiation Treatment Planning: Precision and Efficiency</title><link>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/post/ai-treatment-planning/</link><pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate><guid>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/post/ai-treatment-planning/</guid><description>&lt;p>Treatment planning in radiation oncology requires precise calculations and careful consideration of numerous variables. Med.AI&amp;rsquo;s AI-driven approach is transforming this critical process.&lt;/p>
+&lt;h2 id="intelligent-planning-systems">Intelligent Planning Systems&lt;/h2>
+&lt;h3 id="ai-powered-optimization">AI-Powered Optimization&lt;/h3>
+&lt;ul>
+&lt;li>Automated dose distribution calculations&lt;/li>
+&lt;li>Real-time plan adjustments&lt;/li>
+&lt;li>Multi-criteria optimization&lt;/li>
+&lt;li>Organ-at-risk sparing&lt;/li>
+&lt;/ul>
+&lt;h3 id="smart-algorithms">Smart Algorithms&lt;/h3>
+&lt;ul>
+&lt;li>Machine learning for dose prediction&lt;/li>
+&lt;li>Adaptive planning capabilities&lt;/li>
+&lt;li>Historical data integration&lt;/li>
+&lt;li>Patient-specific customization&lt;/li>
+&lt;/ul>
+&lt;h2 id="clinical-benefits">Clinical Benefits&lt;/h2>
+&lt;h3 id="enhanced-efficiency">Enhanced Efficiency&lt;/h3>
+&lt;ul>
+&lt;li>Faster plan generation&lt;/li>
+&lt;li>Reduced planning time&lt;/li>
+&lt;li>Automated quality checks&lt;/li>
+&lt;li>Streamlined workflow&lt;/li>
+&lt;/ul>
+&lt;h3 id="improved-accuracy">Improved Accuracy&lt;/h3>
+&lt;ul>
+&lt;li>Precise dose calculations&lt;/li>
+&lt;li>Consistent plan quality&lt;/li>
+&lt;li>Reduced variability&lt;/li>
+&lt;li>Better treatment outcomes&lt;/li>
+&lt;/ul>
+&lt;h2 id="future-innovations">Future Innovations&lt;/h2>
+&lt;p>We&amp;rsquo;re developing:&lt;/p></description></item><item><title>AI-Powered Medical Documentation: Transforming Patient Care Documentation</title><link>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/post/ai-medical-documentation/</link><pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate><guid>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/post/ai-medical-documentation/</guid><description>&lt;p>Medical documentation has long been a time-consuming yet critical aspect of healthcare. Med.AI is transforming this process through advanced AI technologies, allowing healthcare providers to focus more on patient care.&lt;/p>
+&lt;h2 id="the-challenge-of-medical-documentation">The Challenge of Medical Documentation&lt;/h2>
+&lt;p>Healthcare providers spend countless hours on documentation, often having to:&lt;/p>
+&lt;ul>
+&lt;li>Review lengthy patient histories&lt;/li>
+&lt;li>Summarize complex medical conditions&lt;/li>
+&lt;li>Generate treatment summaries&lt;/li>
+&lt;li>Create detailed patient records&lt;/li>
+&lt;/ul>
+&lt;h2 id="medais-solution">Med.AI&amp;rsquo;s Solution&lt;/h2>
+&lt;p>Our platform employs state-of-the-art Language Learning Models (LLMs) to:&lt;/p></description></item><item><title>Introducing Med.AI: Revolutionizing Radiation Oncology Workflows</title><link>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/post/introducing-med-ai/</link><pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate><guid>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/post/introducing-med-ai/</guid><description>&lt;p>Med.AI emerges as a transformative solution in radiation oncology, combining cutting-edge AI technology with clinical workflows to enhance patient care and improve operational efficiency.&lt;/p>
+&lt;h2 id="our-mission">Our Mission&lt;/h2>
+&lt;p>At Med.AI, we&amp;rsquo;re committed to revolutionizing radiation oncology through intelligent automation. Our platform integrates seamlessly with existing clinical systems while introducing powerful AI capabilities that assist medical professionals in multiple aspects of their workflow.&lt;/p>
+&lt;h2 id="key-features">Key Features&lt;/h2>
+&lt;h3 id="smart-patient-documentation">Smart Patient Documentation&lt;/h3>
+&lt;p>Using advanced Language Learning Models (LLMs), Med.AI automates the creation of patient documentation, generating accurate and concise medical summaries.&lt;/p></description></item><item><title>Med.AI's Approach to HIPAA Compliance and Data Security</title><link>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/post/hipaa-data-security/</link><pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate><guid>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/post/hipaa-data-security/</guid><description>&lt;p>In healthcare technology, security isn&amp;rsquo;t just a feature—it&amp;rsquo;s a fundamental requirement. Med.AI takes a comprehensive approach to ensuring HIPAA compliance and data security.&lt;/p>
+&lt;h2 id="our-security-framework">Our Security Framework&lt;/h2>
+&lt;h3 id="data-protection">Data Protection&lt;/h3>
+&lt;ul>
+&lt;li>End-to-end encryption&lt;/li>
+&lt;li>Secure data transmission&lt;/li>
+&lt;li>Protected health information (PHI) safeguards&lt;/li>
+&lt;li>Regular security audits&lt;/li>
+&lt;/ul>
+&lt;h3 id="hipaa-compliance">HIPAA Compliance&lt;/h3>
+&lt;ul>
+&lt;li>Strict access controls&lt;/li>
+&lt;li>Audit trail maintenance&lt;/li>
+&lt;li>Data anonymization&lt;/li>
+&lt;li>Secure cloud storage&lt;/li>
+&lt;/ul>
+&lt;h3 id="technical-implementation">Technical Implementation&lt;/h3>
+&lt;ul>
+&lt;li>AWS secure infrastructure&lt;/li>
+&lt;li>Role-based access control&lt;/li>
+&lt;li>Automated compliance checking&lt;/li>
+&lt;li>Regular security updates&lt;/li>
+&lt;/ul>
+&lt;h2 id="privacy-measures">Privacy Measures&lt;/h2>
+&lt;h3 id="data-handling">Data Handling&lt;/h3>
+&lt;ul>
+&lt;li>Automated anonymization&lt;/li>
+&lt;li>Secure data processing&lt;/li>
+&lt;li>Limited data retention&lt;/li>
+&lt;li>Controlled access protocols&lt;/li>
+&lt;/ul>
+&lt;h3 id="user-authentication">User Authentication&lt;/h3>
+&lt;ul>
+&lt;li>Multi-factor authentication&lt;/li>
+&lt;li>Session management&lt;/li>
+&lt;li>Activity monitoring&lt;/li>
+&lt;li>Secure password policies&lt;/li>
+&lt;/ul>
+&lt;h2 id="ongoing-commitment">Ongoing Commitment&lt;/h2>
+&lt;p>We continuously:&lt;/p></description></item><item><title>The Future of Auto-Contouring in Radiation Treatment</title><link>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/post/auto-contouring-future/</link><pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate><guid>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/post/auto-contouring-future/</guid><description>&lt;p>Auto-contouring represents one of the most significant advancements in radiation oncology, and Med.AI is at the forefront of this revolutionary technology.&lt;/p>
+&lt;h2 id="the-evolution-of-contouring">The Evolution of Contouring&lt;/h2>
+&lt;h3 id="traditional-challenges">Traditional Challenges&lt;/h3>
+&lt;ul>
+&lt;li>Time-intensive manual contouring&lt;/li>
+&lt;li>Variability between practitioners&lt;/li>
+&lt;li>Complex anatomical structures&lt;/li>
+&lt;li>Need for high precision&lt;/li>
+&lt;/ul>
+&lt;h3 id="medais-automated-solution">Med.AI&amp;rsquo;s Automated Solution&lt;/h3>
+&lt;p>Our platform brings several innovations to the contouring process:&lt;/p>
+&lt;h4 id="advanced-ai-models">Advanced AI Models&lt;/h4>
+&lt;ul>
+&lt;li>Trained on extensive medical imaging datasets&lt;/li>
+&lt;li>Real-time contour generation&lt;/li>
+&lt;li>High accuracy and consistency&lt;/li>
+&lt;li>Adaptable to different imaging modalities&lt;/li>
+&lt;/ul>
+&lt;h4 id="quality-assurance">Quality Assurance&lt;/h4>
+&lt;ul>
+&lt;li>Automated verification systems&lt;/li>
+&lt;li>Comparison with established standards&lt;/li>
+&lt;li>Easy manual adjustment capabilities&lt;/li>
+&lt;li>Version control and tracking&lt;/li>
+&lt;/ul>
+&lt;h4 id="integration-features">Integration Features&lt;/h4>
+&lt;ul>
+&lt;li>Seamless PACS integration&lt;/li>
+&lt;li>Support for multiple imaging formats&lt;/li>
+&lt;li>Real-time collaboration tools&lt;/li>
+&lt;li>Efficient workflow management&lt;/li>
+&lt;/ul>
+&lt;h2 id="clinical-impact">Clinical Impact&lt;/h2>
+&lt;p>The implementation of Med.AI&amp;rsquo;s auto-contouring has shown:&lt;/p></description></item><item><title>Bootstrap 5.3.0</title><link>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/post/bootstrap-5-3-0/</link><pubDate>Tue, 30 May 2023 00:00:00 +0100</pubDate><guid>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/post/bootstrap-5-3-0/</guid><description>&lt;p>&lt;img src="bootstrap-5-3.png" alt="Bootstrap 5 3">
+{ .img-fluid }&lt;/p>
+&lt;blockquote>
+&lt;p>It’s official, the final stable release of v5.3.0 has landed! It’s been a monumental effort to revamp our codebase for CSS variables and color modes, one that will see continued changes leading up to an eventual Bootstrap 6. And we’re so excited to finally ship it!&lt;/p>&lt;/blockquote>
+&lt;p>On top of all the work that’s gone into this release, a lot has happened behind the scenes since we shipped our pre-releases. Keep reading to learn everything that’s &lt;a href="https://blog.getbootstrap.com/2023/05/30/bootstrap-5-3-0/" target="_blank" rel="noopener">new in v5.3.0&lt;/a>.&lt;/p></description></item><item><title>Bootstrap 5.2.0 beta</title><link>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/post/bootstrap-5-2-0-beta/</link><pubDate>Fri, 13 May 2022 13:00:44 +0100</pubDate><guid>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/post/bootstrap-5-2-0-beta/</guid><description>&lt;p>&lt;img src="bootstrap-5-2-0-beta.png" alt="Bootstrap 5 2 0 Beta">
+{ .img-fluid }&lt;/p>
+&lt;blockquote>
+&lt;p>It’s the biggest release since v5 itself—&lt;strong>Bootstrap v5.2.0-beta1 is here!&lt;/strong> This release features redesigned docs, CSS variables for all our components, responsive offcanvas, new helpers and utilities, refined buttons and inputs, and lots of improvements under the hood.&lt;/p>&lt;/blockquote>
+&lt;p>Given the size of the update and time since our last release, we’re doing something different and shipping it as a beta first. &lt;a href="https://blog.getbootstrap.com/2022/05/13/bootstrap-5-2-0-beta/" target="_blank" rel="noopener">Keep reading for details&lt;/a>.&lt;/p></description></item><item><title>About</title><link>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/about/</guid><description>&lt;h1 id="about-us">About Us&lt;/h1>
+&lt;p>Made with ❤️ by the &lt;em>Hugo Bootstrap Theme&lt;/em> &lt;a href="https://github.com/filipecarneiro/hugo-bootstrap-theme/graphs/contributors" target="_blank" rel="noopener">team&lt;/a>.&lt;/p></description></item><item><title>Auto-Contouring Agent</title><link>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/page/contouring-agent/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/page/contouring-agent/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>The Auto-Contouring Agent employs state-of-the-art artificial intelligence to automate and optimize the contouring process in radiation treatment planning. This sophisticated system helps clinicians save time while maintaining high accuracy in defining treatment areas.&lt;/p>
+&lt;h2 id="key-features">Key Features&lt;/h2>
+&lt;h3 id="automated-contouring">Automated Contouring&lt;/h3>
+&lt;ul>
+&lt;li>Real-time contour generation&lt;/li>
+&lt;li>Multi-structure detection&lt;/li>
+&lt;li>Adaptive refinement&lt;/li>
+&lt;li>Quality assurance tools&lt;/li>
+&lt;/ul>
+&lt;h3 id="advanced-visualization">Advanced Visualization&lt;/h3>
+&lt;ul>
+&lt;li>Interactive 3D viewing&lt;/li>
+&lt;li>Multi-planar reconstruction&lt;/li>
+&lt;li>Contour overlay options&lt;/li>
+&lt;li>Real-time adjustments&lt;/li>
+&lt;/ul>
+&lt;h3 id="dicom-integration">DICOM Integration&lt;/h3>
+&lt;ul>
+&lt;li>Seamless PACS connectivity&lt;/li>
+&lt;li>Orthanc server integration&lt;/li>
+&lt;li>Efficient file handling&lt;/li>
+&lt;li>Standardized output&lt;/li>
+&lt;/ul>
+&lt;h2 id="technical-specifications">Technical Specifications&lt;/h2>
+&lt;h3 id="ai-model">AI Model&lt;/h3>
+&lt;ul>
+&lt;li>Deep learning architecture&lt;/li>
+&lt;li>Trained on extensive datasets&lt;/li>
+&lt;li>Regular model updates&lt;/li>
+&lt;li>Configurable parameters&lt;/li>
+&lt;/ul>
+&lt;h3 id="quality-control">Quality Control&lt;/h3>
+&lt;ul>
+&lt;li>Automated verification&lt;/li>
+&lt;li>Consistency checks&lt;/li>
+&lt;li>Manual override options&lt;/li>
+&lt;li>Version control&lt;/li>
+&lt;/ul>
+&lt;h2 id="clinical-applications">Clinical Applications&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Treatment Planning&lt;/strong>&lt;/p></description></item><item><title>Code of Conduct</title><link>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/code-of-conduct/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/code-of-conduct/</guid><description>&lt;h1 id="contributor-covenant-code-of-conduct">Contributor Covenant Code of Conduct&lt;/h1>
+&lt;h2 id="our-pledge">Our Pledge&lt;/h2>
+&lt;p>We as members, contributors, and leaders pledge to make participation in our
+community a harassment-free experience for everyone, regardless of age, body
+size, visible or invisible disability, ethnicity, sex characteristics, gender
+identity and expression, level of experience, education, socio-economic status,
+nationality, personal appearance, race, caste, color, religion, or sexual
+identity and orientation.&lt;/p>
+&lt;p>We pledge to act and interact in ways that contribute to an open, welcoming,
+diverse, inclusive, and healthy community.&lt;/p></description></item><item><title>Contact</title><link>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/contact/</guid><description>&lt;h1 id="contact">Contact&lt;/h1>
+&lt;p>For inquiries about Med.AI, please reach out to our team:&lt;/p>
+&lt;h2 id="development-team">Development Team&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Project Lead&lt;/strong>: Professor Rafe McBeth
+&lt;ul>
+&lt;li>Assistant Professor of Clinical Radiation Oncology&lt;/li>
+&lt;li>Medical Physicist&lt;/li>
+&lt;li>Director of AI at Penn Medicine&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="technical-support--development">Technical Support &amp;amp; Development&lt;/h2>
+&lt;ul>
+&lt;li>Nicholas Molina - System Architecture &amp;amp; Integration&lt;/li>
+&lt;li>Aarti Bhamidipati - Frontend Development &amp;amp; UI Design&lt;/li>
+&lt;li>Brian Lu - Backend Development&lt;/li>
+&lt;li>Ben Yoon - AI Implementation &amp;amp; Computer Vision&lt;/li>
+&lt;li>Henry Casper - Full-stack Development&lt;/li>
+&lt;/ul>
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>Penn Medicine
+Department of Radiation Oncology
+Philadelphia, PA&lt;/p></description></item><item><title>Patient Intake &amp; Documentation Agent</title><link>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/page/patient-intake-agent/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/page/patient-intake-agent/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>The Patient Intake Agent streamlines the documentation process in radiation oncology by leveraging advanced Language Learning Models (LLMs). This intelligent system processes patient records, generates concise summaries, and helps maintain accurate documentation while saving valuable clinical time.&lt;/p>
+&lt;h2 id="key-features">Key Features&lt;/h2>
+&lt;h3 id="multiple-ai-model-support">Multiple AI Model Support&lt;/h3>
+&lt;ul>
+&lt;li>Integration with leading LLMs:
+&lt;ul>
+&lt;li>GPT&lt;/li>
+&lt;li>Claude&lt;/li>
+&lt;li>Llama&lt;/li>
+&lt;li>Hugging Face models&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Compare outputs across models&lt;/li>
+&lt;li>Select optimal results&lt;/li>
+&lt;/ul>
+&lt;h3 id="automated-documentation">Automated Documentation&lt;/h3>
+&lt;ul>
+&lt;li>Generate medical one-liners&lt;/li>
+&lt;li>Process patient histories&lt;/li>
+&lt;li>Create structured reports&lt;/li>
+&lt;li>Extract key clinical information&lt;/li>
+&lt;/ul>
+&lt;h3 id="interactive-feedback-system">Interactive Feedback System&lt;/h3>
+&lt;ul>
+&lt;li>Real-time result improvement&lt;/li>
+&lt;li>User feedback integration&lt;/li>
+&lt;li>Continuous model refinement&lt;/li>
+&lt;li>Quality assurance checks&lt;/li>
+&lt;/ul>
+&lt;h2 id="technical-details">Technical Details&lt;/h2>
+&lt;h3 id="hipaa-compliance">HIPAA Compliance&lt;/h3>
+&lt;ul>
+&lt;li>Secure data processing&lt;/li>
+&lt;li>Automated anonymization&lt;/li>
+&lt;li>Protected health information safeguards&lt;/li>
+&lt;li>Audit trail maintenance&lt;/li>
+&lt;/ul>
+&lt;h3 id="system-integration">System Integration&lt;/h3>
+&lt;ul>
+&lt;li>Seamless EMR integration&lt;/li>
+&lt;li>Structured data output&lt;/li>
+&lt;li>Standardized formatting&lt;/li>
+&lt;li>Easy export capabilities&lt;/li>
+&lt;/ul>
+&lt;h2 id="benefits">Benefits&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Time Savings&lt;/strong>&lt;/p></description></item><item><title>Privacy Policy</title><link>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/privacy-policy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/privacy-policy/</guid><description>&lt;h1 id="privacy-policy">Privacy Policy&lt;/h1>
+&lt;p>&lt;strong>TL;DR&lt;/strong>: We do not use cookies and we do not collect any personal data.&lt;/p>
+&lt;h2 id="website-visitors">Website visitors&lt;/h2>
+&lt;ul>
+&lt;li>No personal information is collected.&lt;/li>
+&lt;li>No information is stored in the browser.&lt;/li>
+&lt;li>No information is shared with, sent to or sold to third-parties.&lt;/li>
+&lt;li>No information is shared with advertising companies.&lt;/li>
+&lt;li>No information is mined and harvested for personal and behavioral trends.&lt;/li>
+&lt;li>No information is monetized.&lt;/li>
+&lt;/ul>
+&lt;h2 id="information-we-collect-and-what-we-use-it-for">Information we collect and what we use it for&lt;/h2>
+&lt;p>The server hosting this site can collect the following information:&lt;/p></description></item><item><title>Sobre</title><link>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/about.pt/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/about.pt/</guid><description>&lt;h1 id="sobre-nós">Sobre nós&lt;/h1>
+&lt;p>Feito com ❤️ pela &lt;a href="https://github.com/filipecarneiro/hugo-bootstrap-theme/graphs/contributors" target="_blank" rel="noopener">equipa&lt;/a> &lt;em>Hugo Bootstrap Theme&lt;/em>.&lt;/p></description></item><item><title>Treatment Planning Agent</title><link>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/page/treatment-planning-agent/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/page/treatment-planning-agent/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>The Treatment Planning Agent leverages artificial intelligence to optimize radiation therapy treatment plans. By analyzing patient data, imaging, and contours, this system helps create precise and efficient treatment strategies while maintaining optimal dose distribution.&lt;/p>
+&lt;h2 id="key-features">Key Features&lt;/h2>
+&lt;h3 id="intelligent-planning">Intelligent Planning&lt;/h3>
+&lt;ul>
+&lt;li>Automated plan generation&lt;/li>
+&lt;li>Dose optimization&lt;/li>
+&lt;li>Organ-at-risk sparing&lt;/li>
+&lt;li>Treatment strategy recommendations&lt;/li>
+&lt;/ul>
+&lt;h3 id="dose-analysis">Dose Analysis&lt;/h3>
+&lt;ul>
+&lt;li>Real-time dose calculation&lt;/li>
+&lt;li>3D dose visualization&lt;/li>
+&lt;li>DVH analysis&lt;/li>
+&lt;li>Plan comparison tools&lt;/li>
+&lt;/ul>
+&lt;h3 id="quality-management">Quality Management&lt;/h3>
+&lt;ul>
+&lt;li>Automated plan checks&lt;/li>
+&lt;li>Compliance verification&lt;/li>
+&lt;li>Documentation generation&lt;/li>
+&lt;li>Review workflow integration&lt;/li>
+&lt;/ul>
+&lt;h2 id="technical-capabilities">Technical Capabilities&lt;/h2>
+&lt;h3 id="ai-powered-optimization">AI-Powered Optimization&lt;/h3>
+&lt;ul>
+&lt;li>Machine learning algorithms&lt;/li>
+&lt;li>Adaptive planning&lt;/li>
+&lt;li>Multi-criteria optimization&lt;/li>
+&lt;li>Real-time adjustments&lt;/li>
+&lt;/ul>
+&lt;h3 id="clinical-integration">Clinical Integration&lt;/h3>
+&lt;ul>
+&lt;li>Standard protocol support&lt;/li>
+&lt;li>System interoperability&lt;/li>
+&lt;li>Workflow automation&lt;/li>
+&lt;li>Data synchronization&lt;/li>
+&lt;/ul>
+&lt;h2 id="clinical-benefits">Clinical Benefits&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Efficiency&lt;/strong>&lt;/p></description></item></channel></rss>

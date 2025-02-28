@@ -1,34 +1,71 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Radiation Oncology on Med.AI</title>
-    <link>https://ngmolina.github.io/hugo-mock-landing-page/tags/radiation-oncology/</link>
-    <description>Recent content in Radiation Oncology on Med.AI</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <copyright>Nicholas Molina</copyright>
-    <lastBuildDate>Tue, 11 Feb 2025 00:48:36 -0500</lastBuildDate>
-    <atom:link href="https://ngmolina.github.io/hugo-mock-landing-page/tags/radiation-oncology/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>AI-Driven Radiation Treatment Planning: Precision and Efficiency</title>
-      <link>https://ngmolina.github.io/hugo-mock-landing-page/post/ai-treatment-planning/</link>
-      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://ngmolina.github.io/hugo-mock-landing-page/post/ai-treatment-planning/</guid>
-      <description>&lt;p&gt;Treatment planning in radiation oncology requires precise calculations and careful consideration of numerous variables. Med.AI&amp;rsquo;s AI-driven approach is transforming this critical process.&lt;/p&gt;&#xA;&lt;h2 id=&#34;intelligent-planning-systems&#34;&gt;Intelligent Planning Systems&lt;/h2&gt;&#xA;&lt;h3 id=&#34;ai-powered-optimization&#34;&gt;AI-Powered Optimization&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Automated dose distribution calculations&lt;/li&gt;&#xA;&lt;li&gt;Real-time plan adjustments&lt;/li&gt;&#xA;&lt;li&gt;Multi-criteria optimization&lt;/li&gt;&#xA;&lt;li&gt;Organ-at-risk sparing&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;smart-algorithms&#34;&gt;Smart Algorithms&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Machine learning for dose prediction&lt;/li&gt;&#xA;&lt;li&gt;Adaptive planning capabilities&lt;/li&gt;&#xA;&lt;li&gt;Historical data integration&lt;/li&gt;&#xA;&lt;li&gt;Patient-specific customization&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;clinical-benefits&#34;&gt;Clinical Benefits&lt;/h2&gt;&#xA;&lt;h3 id=&#34;enhanced-efficiency&#34;&gt;Enhanced Efficiency&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Faster plan generation&lt;/li&gt;&#xA;&lt;li&gt;Reduced planning time&lt;/li&gt;&#xA;&lt;li&gt;Automated quality checks&lt;/li&gt;&#xA;&lt;li&gt;Streamlined workflow&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;improved-accuracy&#34;&gt;Improved Accuracy&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Precise dose calculations&lt;/li&gt;&#xA;&lt;li&gt;Consistent plan quality&lt;/li&gt;&#xA;&lt;li&gt;Reduced variability&lt;/li&gt;&#xA;&lt;li&gt;Better treatment outcomes&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;future-innovations&#34;&gt;Future Innovations&lt;/h2&gt;&#xA;&lt;p&gt;We&amp;rsquo;re developing:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Introducing Med.AI: Revolutionizing Radiation Oncology Workflows</title>
-      <link>https://ngmolina.github.io/hugo-mock-landing-page/post/introducing-med-ai/</link>
-      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://ngmolina.github.io/hugo-mock-landing-page/post/introducing-med-ai/</guid>
-      <description>&lt;p&gt;Med.AI emerges as a transformative solution in radiation oncology, combining cutting-edge AI technology with clinical workflows to enhance patient care and improve operational efficiency.&lt;/p&gt;&#xA;&lt;h2 id=&#34;our-mission&#34;&gt;Our Mission&lt;/h2&gt;&#xA;&lt;p&gt;At Med.AI, we&amp;rsquo;re committed to revolutionizing radiation oncology through intelligent automation. Our platform integrates seamlessly with existing clinical systems while introducing powerful AI capabilities that assist medical professionals in multiple aspects of their workflow.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;&#xA;&lt;h3 id=&#34;smart-patient-documentation&#34;&gt;Smart Patient Documentation&lt;/h3&gt;&#xA;&lt;p&gt;Using advanced Language Learning Models (LLMs), Med.AI automates the creation of patient documentation, generating accurate and concise medical summaries.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Future of Auto-Contouring in Radiation Treatment</title>
-      <link>https://ngmolina.github.io/hugo-mock-landing-page/post/auto-contouring-future/</link>
-      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://ngmolina.github.io/hugo-mock-landing-page/post/auto-contouring-future/</guid>
-      <description>&lt;p&gt;Auto-contouring represents one of the most significant advancements in radiation oncology, and Med.AI is at the forefront of this revolutionary technology.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-evolution-of-contouring&#34;&gt;The Evolution of Contouring&lt;/h2&gt;&#xA;&lt;h3 id=&#34;traditional-challenges&#34;&gt;Traditional Challenges&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Time-intensive manual contouring&lt;/li&gt;&#xA;&lt;li&gt;Variability between practitioners&lt;/li&gt;&#xA;&lt;li&gt;Complex anatomical structures&lt;/li&gt;&#xA;&lt;li&gt;Need for high precision&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;medais-automated-solution&#34;&gt;Med.AI&amp;rsquo;s Automated Solution&lt;/h3&gt;&#xA;&lt;p&gt;Our platform brings several innovations to the contouring process:&lt;/p&gt;&#xA;&lt;h4 id=&#34;advanced-ai-models&#34;&gt;Advanced AI Models&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Trained on extensive medical imaging datasets&lt;/li&gt;&#xA;&lt;li&gt;Real-time contour generation&lt;/li&gt;&#xA;&lt;li&gt;High accuracy and consistency&lt;/li&gt;&#xA;&lt;li&gt;Adaptable to different imaging modalities&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;quality-assurance&#34;&gt;Quality Assurance&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Automated verification systems&lt;/li&gt;&#xA;&lt;li&gt;Comparison with established standards&lt;/li&gt;&#xA;&lt;li&gt;Easy manual adjustment capabilities&lt;/li&gt;&#xA;&lt;li&gt;Version control and tracking&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;integration-features&#34;&gt;Integration Features&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Seamless PACS integration&lt;/li&gt;&#xA;&lt;li&gt;Support for multiple imaging formats&lt;/li&gt;&#xA;&lt;li&gt;Real-time collaboration tools&lt;/li&gt;&#xA;&lt;li&gt;Efficient workflow management&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;clinical-impact&#34;&gt;Clinical Impact&lt;/h2&gt;&#xA;&lt;p&gt;The implementation of Med.AI&amp;rsquo;s auto-contouring has shown:&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Radiation Oncology on Med.AI</title><link>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/tags/radiation-oncology/</link><description>Recent content in Radiation Oncology on Med.AI</description><generator>Hugo</generator><language>en</language><copyright>Nicholas Molina</copyright><lastBuildDate>Fri, 28 Feb 2025 20:23:33 +0000</lastBuildDate><atom:link href="https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/tags/radiation-oncology/index.xml" rel="self" type="application/rss+xml"/><item><title>AI-Driven Radiation Treatment Planning: Precision and Efficiency</title><link>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/post/ai-treatment-planning/</link><pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate><guid>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/post/ai-treatment-planning/</guid><description>&lt;p>Treatment planning in radiation oncology requires precise calculations and careful consideration of numerous variables. Med.AI&amp;rsquo;s AI-driven approach is transforming this critical process.&lt;/p>
+&lt;h2 id="intelligent-planning-systems">Intelligent Planning Systems&lt;/h2>
+&lt;h3 id="ai-powered-optimization">AI-Powered Optimization&lt;/h3>
+&lt;ul>
+&lt;li>Automated dose distribution calculations&lt;/li>
+&lt;li>Real-time plan adjustments&lt;/li>
+&lt;li>Multi-criteria optimization&lt;/li>
+&lt;li>Organ-at-risk sparing&lt;/li>
+&lt;/ul>
+&lt;h3 id="smart-algorithms">Smart Algorithms&lt;/h3>
+&lt;ul>
+&lt;li>Machine learning for dose prediction&lt;/li>
+&lt;li>Adaptive planning capabilities&lt;/li>
+&lt;li>Historical data integration&lt;/li>
+&lt;li>Patient-specific customization&lt;/li>
+&lt;/ul>
+&lt;h2 id="clinical-benefits">Clinical Benefits&lt;/h2>
+&lt;h3 id="enhanced-efficiency">Enhanced Efficiency&lt;/h3>
+&lt;ul>
+&lt;li>Faster plan generation&lt;/li>
+&lt;li>Reduced planning time&lt;/li>
+&lt;li>Automated quality checks&lt;/li>
+&lt;li>Streamlined workflow&lt;/li>
+&lt;/ul>
+&lt;h3 id="improved-accuracy">Improved Accuracy&lt;/h3>
+&lt;ul>
+&lt;li>Precise dose calculations&lt;/li>
+&lt;li>Consistent plan quality&lt;/li>
+&lt;li>Reduced variability&lt;/li>
+&lt;li>Better treatment outcomes&lt;/li>
+&lt;/ul>
+&lt;h2 id="future-innovations">Future Innovations&lt;/h2>
+&lt;p>We&amp;rsquo;re developing:&lt;/p></description></item><item><title>Introducing Med.AI: Revolutionizing Radiation Oncology Workflows</title><link>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/post/introducing-med-ai/</link><pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate><guid>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/post/introducing-med-ai/</guid><description>&lt;p>Med.AI emerges as a transformative solution in radiation oncology, combining cutting-edge AI technology with clinical workflows to enhance patient care and improve operational efficiency.&lt;/p>
+&lt;h2 id="our-mission">Our Mission&lt;/h2>
+&lt;p>At Med.AI, we&amp;rsquo;re committed to revolutionizing radiation oncology through intelligent automation. Our platform integrates seamlessly with existing clinical systems while introducing powerful AI capabilities that assist medical professionals in multiple aspects of their workflow.&lt;/p>
+&lt;h2 id="key-features">Key Features&lt;/h2>
+&lt;h3 id="smart-patient-documentation">Smart Patient Documentation&lt;/h3>
+&lt;p>Using advanced Language Learning Models (LLMs), Med.AI automates the creation of patient documentation, generating accurate and concise medical summaries.&lt;/p></description></item><item><title>The Future of Auto-Contouring in Radiation Treatment</title><link>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/post/auto-contouring-future/</link><pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate><guid>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/post/auto-contouring-future/</guid><description>&lt;p>Auto-contouring represents one of the most significant advancements in radiation oncology, and Med.AI is at the forefront of this revolutionary technology.&lt;/p>
+&lt;h2 id="the-evolution-of-contouring">The Evolution of Contouring&lt;/h2>
+&lt;h3 id="traditional-challenges">Traditional Challenges&lt;/h3>
+&lt;ul>
+&lt;li>Time-intensive manual contouring&lt;/li>
+&lt;li>Variability between practitioners&lt;/li>
+&lt;li>Complex anatomical structures&lt;/li>
+&lt;li>Need for high precision&lt;/li>
+&lt;/ul>
+&lt;h3 id="medais-automated-solution">Med.AI&amp;rsquo;s Automated Solution&lt;/h3>
+&lt;p>Our platform brings several innovations to the contouring process:&lt;/p>
+&lt;h4 id="advanced-ai-models">Advanced AI Models&lt;/h4>
+&lt;ul>
+&lt;li>Trained on extensive medical imaging datasets&lt;/li>
+&lt;li>Real-time contour generation&lt;/li>
+&lt;li>High accuracy and consistency&lt;/li>
+&lt;li>Adaptable to different imaging modalities&lt;/li>
+&lt;/ul>
+&lt;h4 id="quality-assurance">Quality Assurance&lt;/h4>
+&lt;ul>
+&lt;li>Automated verification systems&lt;/li>
+&lt;li>Comparison with established standards&lt;/li>
+&lt;li>Easy manual adjustment capabilities&lt;/li>
+&lt;li>Version control and tracking&lt;/li>
+&lt;/ul>
+&lt;h4 id="integration-features">Integration Features&lt;/h4>
+&lt;ul>
+&lt;li>Seamless PACS integration&lt;/li>
+&lt;li>Support for multiple imaging formats&lt;/li>
+&lt;li>Real-time collaboration tools&lt;/li>
+&lt;li>Efficient workflow management&lt;/li>
+&lt;/ul>
+&lt;h2 id="clinical-impact">Clinical Impact&lt;/h2>
+&lt;p>The implementation of Med.AI&amp;rsquo;s auto-contouring has shown:&lt;/p></description></item></channel></rss>

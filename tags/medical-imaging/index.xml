@@ -1,19 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Medical Imaging on Med.AI</title>
-    <link>https://ngmolina.github.io/hugo-mock-landing-page/tags/medical-imaging/</link>
-    <description>Recent content in Medical Imaging on Med.AI</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <copyright>Nicholas Molina</copyright>
-    <atom:link href="https://ngmolina.github.io/hugo-mock-landing-page/tags/medical-imaging/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Auto-Contouring Agent</title>
-      <link>https://ngmolina.github.io/hugo-mock-landing-page/page/contouring-agent/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ngmolina.github.io/hugo-mock-landing-page/page/contouring-agent/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The Auto-Contouring Agent employs state-of-the-art artificial intelligence to automate and optimize the contouring process in radiation treatment planning. This sophisticated system helps clinicians save time while maintaining high accuracy in defining treatment areas.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;&#xA;&lt;h3 id=&#34;automated-contouring&#34;&gt;Automated Contouring&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Real-time contour generation&lt;/li&gt;&#xA;&lt;li&gt;Multi-structure detection&lt;/li&gt;&#xA;&lt;li&gt;Adaptive refinement&lt;/li&gt;&#xA;&lt;li&gt;Quality assurance tools&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;advanced-visualization&#34;&gt;Advanced Visualization&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Interactive 3D viewing&lt;/li&gt;&#xA;&lt;li&gt;Multi-planar reconstruction&lt;/li&gt;&#xA;&lt;li&gt;Contour overlay options&lt;/li&gt;&#xA;&lt;li&gt;Real-time adjustments&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;dicom-integration&#34;&gt;DICOM Integration&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Seamless PACS connectivity&lt;/li&gt;&#xA;&lt;li&gt;Orthanc server integration&lt;/li&gt;&#xA;&lt;li&gt;Efficient file handling&lt;/li&gt;&#xA;&lt;li&gt;Standardized output&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;technical-specifications&#34;&gt;Technical Specifications&lt;/h2&gt;&#xA;&lt;h3 id=&#34;ai-model&#34;&gt;AI Model&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Deep learning architecture&lt;/li&gt;&#xA;&lt;li&gt;Trained on extensive datasets&lt;/li&gt;&#xA;&lt;li&gt;Regular model updates&lt;/li&gt;&#xA;&lt;li&gt;Configurable parameters&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;quality-control&#34;&gt;Quality Control&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Automated verification&lt;/li&gt;&#xA;&lt;li&gt;Consistency checks&lt;/li&gt;&#xA;&lt;li&gt;Manual override options&lt;/li&gt;&#xA;&lt;li&gt;Version control&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;clinical-applications&#34;&gt;Clinical Applications&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Treatment Planning&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Medical Imaging on Med.AI</title><link>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/tags/medical-imaging/</link><description>Recent content in Medical Imaging on Med.AI</description><generator>Hugo</generator><language>en</language><copyright>Nicholas Molina</copyright><atom:link href="https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/tags/medical-imaging/index.xml" rel="self" type="application/rss+xml"/><item><title>Auto-Contouring Agent</title><link>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/page/contouring-agent/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/page/contouring-agent/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>The Auto-Contouring Agent employs state-of-the-art artificial intelligence to automate and optimize the contouring process in radiation treatment planning. This sophisticated system helps clinicians save time while maintaining high accuracy in defining treatment areas.&lt;/p>
+&lt;h2 id="key-features">Key Features&lt;/h2>
+&lt;h3 id="automated-contouring">Automated Contouring&lt;/h3>
+&lt;ul>
+&lt;li>Real-time contour generation&lt;/li>
+&lt;li>Multi-structure detection&lt;/li>
+&lt;li>Adaptive refinement&lt;/li>
+&lt;li>Quality assurance tools&lt;/li>
+&lt;/ul>
+&lt;h3 id="advanced-visualization">Advanced Visualization&lt;/h3>
+&lt;ul>
+&lt;li>Interactive 3D viewing&lt;/li>
+&lt;li>Multi-planar reconstruction&lt;/li>
+&lt;li>Contour overlay options&lt;/li>
+&lt;li>Real-time adjustments&lt;/li>
+&lt;/ul>
+&lt;h3 id="dicom-integration">DICOM Integration&lt;/h3>
+&lt;ul>
+&lt;li>Seamless PACS connectivity&lt;/li>
+&lt;li>Orthanc server integration&lt;/li>
+&lt;li>Efficient file handling&lt;/li>
+&lt;li>Standardized output&lt;/li>
+&lt;/ul>
+&lt;h2 id="technical-specifications">Technical Specifications&lt;/h2>
+&lt;h3 id="ai-model">AI Model&lt;/h3>
+&lt;ul>
+&lt;li>Deep learning architecture&lt;/li>
+&lt;li>Trained on extensive datasets&lt;/li>
+&lt;li>Regular model updates&lt;/li>
+&lt;li>Configurable parameters&lt;/li>
+&lt;/ul>
+&lt;h3 id="quality-control">Quality Control&lt;/h3>
+&lt;ul>
+&lt;li>Automated verification&lt;/li>
+&lt;li>Consistency checks&lt;/li>
+&lt;li>Manual override options&lt;/li>
+&lt;li>Version control&lt;/li>
+&lt;/ul>
+&lt;h2 id="clinical-applications">Clinical Applications&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Treatment Planning&lt;/strong>&lt;/p></description></item></channel></rss>

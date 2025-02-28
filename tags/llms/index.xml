@@ -1,27 +1,59 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>LLMs on Med.AI</title>
-    <link>https://ngmolina.github.io/hugo-mock-landing-page/tags/llms/</link>
-    <description>Recent content in LLMs on Med.AI</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <copyright>Nicholas Molina</copyright>
-    <lastBuildDate>Tue, 11 Feb 2025 01:06:55 -0500</lastBuildDate>
-    <atom:link href="https://ngmolina.github.io/hugo-mock-landing-page/tags/llms/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>AI-Powered Medical Documentation: Transforming Patient Care Documentation</title>
-      <link>https://ngmolina.github.io/hugo-mock-landing-page/post/ai-medical-documentation/</link>
-      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://ngmolina.github.io/hugo-mock-landing-page/post/ai-medical-documentation/</guid>
-      <description>&lt;p&gt;Medical documentation has long been a time-consuming yet critical aspect of healthcare. Med.AI is transforming this process through advanced AI technologies, allowing healthcare providers to focus more on patient care.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-challenge-of-medical-documentation&#34;&gt;The Challenge of Medical Documentation&lt;/h2&gt;&#xA;&lt;p&gt;Healthcare providers spend countless hours on documentation, often having to:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Review lengthy patient histories&lt;/li&gt;&#xA;&lt;li&gt;Summarize complex medical conditions&lt;/li&gt;&#xA;&lt;li&gt;Generate treatment summaries&lt;/li&gt;&#xA;&lt;li&gt;Create detailed patient records&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;medais-solution&#34;&gt;Med.AI&amp;rsquo;s Solution&lt;/h2&gt;&#xA;&lt;p&gt;Our platform employs state-of-the-art Language Learning Models (LLMs) to:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Patient Intake &amp; Documentation Agent</title>
-      <link>https://ngmolina.github.io/hugo-mock-landing-page/page/patient-intake-agent/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ngmolina.github.io/hugo-mock-landing-page/page/patient-intake-agent/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The Patient Intake Agent streamlines the documentation process in radiation oncology by leveraging advanced Language Learning Models (LLMs). This intelligent system processes patient records, generates concise summaries, and helps maintain accurate documentation while saving valuable clinical time.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;&#xA;&lt;h3 id=&#34;multiple-ai-model-support&#34;&gt;Multiple AI Model Support&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Integration with leading LLMs:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;GPT&lt;/li&gt;&#xA;&lt;li&gt;Claude&lt;/li&gt;&#xA;&lt;li&gt;Llama&lt;/li&gt;&#xA;&lt;li&gt;Hugging Face models&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Compare outputs across models&lt;/li&gt;&#xA;&lt;li&gt;Select optimal results&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;automated-documentation&#34;&gt;Automated Documentation&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Generate medical one-liners&lt;/li&gt;&#xA;&lt;li&gt;Process patient histories&lt;/li&gt;&#xA;&lt;li&gt;Create structured reports&lt;/li&gt;&#xA;&lt;li&gt;Extract key clinical information&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;interactive-feedback-system&#34;&gt;Interactive Feedback System&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Real-time result improvement&lt;/li&gt;&#xA;&lt;li&gt;User feedback integration&lt;/li&gt;&#xA;&lt;li&gt;Continuous model refinement&lt;/li&gt;&#xA;&lt;li&gt;Quality assurance checks&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;technical-details&#34;&gt;Technical Details&lt;/h2&gt;&#xA;&lt;h3 id=&#34;hipaa-compliance&#34;&gt;HIPAA Compliance&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Secure data processing&lt;/li&gt;&#xA;&lt;li&gt;Automated anonymization&lt;/li&gt;&#xA;&lt;li&gt;Protected health information safeguards&lt;/li&gt;&#xA;&lt;li&gt;Audit trail maintenance&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;system-integration&#34;&gt;System Integration&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Seamless EMR integration&lt;/li&gt;&#xA;&lt;li&gt;Structured data output&lt;/li&gt;&#xA;&lt;li&gt;Standardized formatting&lt;/li&gt;&#xA;&lt;li&gt;Easy export capabilities&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;benefits&#34;&gt;Benefits&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Time Savings&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>LLMs on Med.AI</title><link>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/tags/llms/</link><description>Recent content in LLMs on Med.AI</description><generator>Hugo</generator><language>en</language><copyright>Nicholas Molina</copyright><lastBuildDate>Fri, 28 Feb 2025 20:23:33 +0000</lastBuildDate><atom:link href="https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/tags/llms/index.xml" rel="self" type="application/rss+xml"/><item><title>AI-Powered Medical Documentation: Transforming Patient Care Documentation</title><link>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/post/ai-medical-documentation/</link><pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate><guid>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/post/ai-medical-documentation/</guid><description>&lt;p>Medical documentation has long been a time-consuming yet critical aspect of healthcare. Med.AI is transforming this process through advanced AI technologies, allowing healthcare providers to focus more on patient care.&lt;/p>
+&lt;h2 id="the-challenge-of-medical-documentation">The Challenge of Medical Documentation&lt;/h2>
+&lt;p>Healthcare providers spend countless hours on documentation, often having to:&lt;/p>
+&lt;ul>
+&lt;li>Review lengthy patient histories&lt;/li>
+&lt;li>Summarize complex medical conditions&lt;/li>
+&lt;li>Generate treatment summaries&lt;/li>
+&lt;li>Create detailed patient records&lt;/li>
+&lt;/ul>
+&lt;h2 id="medais-solution">Med.AI&amp;rsquo;s Solution&lt;/h2>
+&lt;p>Our platform employs state-of-the-art Language Learning Models (LLMs) to:&lt;/p></description></item><item><title>Patient Intake &amp; Documentation Agent</title><link>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/page/patient-intake-agent/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/page/patient-intake-agent/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>The Patient Intake Agent streamlines the documentation process in radiation oncology by leveraging advanced Language Learning Models (LLMs). This intelligent system processes patient records, generates concise summaries, and helps maintain accurate documentation while saving valuable clinical time.&lt;/p>
+&lt;h2 id="key-features">Key Features&lt;/h2>
+&lt;h3 id="multiple-ai-model-support">Multiple AI Model Support&lt;/h3>
+&lt;ul>
+&lt;li>Integration with leading LLMs:
+&lt;ul>
+&lt;li>GPT&lt;/li>
+&lt;li>Claude&lt;/li>
+&lt;li>Llama&lt;/li>
+&lt;li>Hugging Face models&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Compare outputs across models&lt;/li>
+&lt;li>Select optimal results&lt;/li>
+&lt;/ul>
+&lt;h3 id="automated-documentation">Automated Documentation&lt;/h3>
+&lt;ul>
+&lt;li>Generate medical one-liners&lt;/li>
+&lt;li>Process patient histories&lt;/li>
+&lt;li>Create structured reports&lt;/li>
+&lt;li>Extract key clinical information&lt;/li>
+&lt;/ul>
+&lt;h3 id="interactive-feedback-system">Interactive Feedback System&lt;/h3>
+&lt;ul>
+&lt;li>Real-time result improvement&lt;/li>
+&lt;li>User feedback integration&lt;/li>
+&lt;li>Continuous model refinement&lt;/li>
+&lt;li>Quality assurance checks&lt;/li>
+&lt;/ul>
+&lt;h2 id="technical-details">Technical Details&lt;/h2>
+&lt;h3 id="hipaa-compliance">HIPAA Compliance&lt;/h3>
+&lt;ul>
+&lt;li>Secure data processing&lt;/li>
+&lt;li>Automated anonymization&lt;/li>
+&lt;li>Protected health information safeguards&lt;/li>
+&lt;li>Audit trail maintenance&lt;/li>
+&lt;/ul>
+&lt;h3 id="system-integration">System Integration&lt;/h3>
+&lt;ul>
+&lt;li>Seamless EMR integration&lt;/li>
+&lt;li>Structured data output&lt;/li>
+&lt;li>Standardized formatting&lt;/li>
+&lt;li>Easy export capabilities&lt;/li>
+&lt;/ul>
+&lt;h2 id="benefits">Benefits&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Time Savings&lt;/strong>&lt;/p></description></item></channel></rss>

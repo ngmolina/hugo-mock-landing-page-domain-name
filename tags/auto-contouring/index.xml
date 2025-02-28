@@ -1,20 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Auto-Contouring on Med.AI</title>
-    <link>https://ngmolina.github.io/hugo-mock-landing-page/tags/auto-contouring/</link>
-    <description>Recent content in Auto-Contouring on Med.AI</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <copyright>Nicholas Molina</copyright>
-    <lastBuildDate>Tue, 11 Feb 2025 00:47:50 -0500</lastBuildDate>
-    <atom:link href="https://ngmolina.github.io/hugo-mock-landing-page/tags/auto-contouring/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Future of Auto-Contouring in Radiation Treatment</title>
-      <link>https://ngmolina.github.io/hugo-mock-landing-page/post/auto-contouring-future/</link>
-      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://ngmolina.github.io/hugo-mock-landing-page/post/auto-contouring-future/</guid>
-      <description>&lt;p&gt;Auto-contouring represents one of the most significant advancements in radiation oncology, and Med.AI is at the forefront of this revolutionary technology.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-evolution-of-contouring&#34;&gt;The Evolution of Contouring&lt;/h2&gt;&#xA;&lt;h3 id=&#34;traditional-challenges&#34;&gt;Traditional Challenges&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Time-intensive manual contouring&lt;/li&gt;&#xA;&lt;li&gt;Variability between practitioners&lt;/li&gt;&#xA;&lt;li&gt;Complex anatomical structures&lt;/li&gt;&#xA;&lt;li&gt;Need for high precision&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;medais-automated-solution&#34;&gt;Med.AI&amp;rsquo;s Automated Solution&lt;/h3&gt;&#xA;&lt;p&gt;Our platform brings several innovations to the contouring process:&lt;/p&gt;&#xA;&lt;h4 id=&#34;advanced-ai-models&#34;&gt;Advanced AI Models&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Trained on extensive medical imaging datasets&lt;/li&gt;&#xA;&lt;li&gt;Real-time contour generation&lt;/li&gt;&#xA;&lt;li&gt;High accuracy and consistency&lt;/li&gt;&#xA;&lt;li&gt;Adaptable to different imaging modalities&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;quality-assurance&#34;&gt;Quality Assurance&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Automated verification systems&lt;/li&gt;&#xA;&lt;li&gt;Comparison with established standards&lt;/li&gt;&#xA;&lt;li&gt;Easy manual adjustment capabilities&lt;/li&gt;&#xA;&lt;li&gt;Version control and tracking&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;integration-features&#34;&gt;Integration Features&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Seamless PACS integration&lt;/li&gt;&#xA;&lt;li&gt;Support for multiple imaging formats&lt;/li&gt;&#xA;&lt;li&gt;Real-time collaboration tools&lt;/li&gt;&#xA;&lt;li&gt;Efficient workflow management&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;clinical-impact&#34;&gt;Clinical Impact&lt;/h2&gt;&#xA;&lt;p&gt;The implementation of Med.AI&amp;rsquo;s auto-contouring has shown:&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Auto-Contouring on Med.AI</title><link>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/tags/auto-contouring/</link><description>Recent content in Auto-Contouring on Med.AI</description><generator>Hugo</generator><language>en</language><copyright>Nicholas Molina</copyright><lastBuildDate>Fri, 28 Feb 2025 20:23:33 +0000</lastBuildDate><atom:link href="https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/tags/auto-contouring/index.xml" rel="self" type="application/rss+xml"/><item><title>The Future of Auto-Contouring in Radiation Treatment</title><link>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/post/auto-contouring-future/</link><pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate><guid>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/post/auto-contouring-future/</guid><description>&lt;p>Auto-contouring represents one of the most significant advancements in radiation oncology, and Med.AI is at the forefront of this revolutionary technology.&lt;/p>
+&lt;h2 id="the-evolution-of-contouring">The Evolution of Contouring&lt;/h2>
+&lt;h3 id="traditional-challenges">Traditional Challenges&lt;/h3>
+&lt;ul>
+&lt;li>Time-intensive manual contouring&lt;/li>
+&lt;li>Variability between practitioners&lt;/li>
+&lt;li>Complex anatomical structures&lt;/li>
+&lt;li>Need for high precision&lt;/li>
+&lt;/ul>
+&lt;h3 id="medais-automated-solution">Med.AI&amp;rsquo;s Automated Solution&lt;/h3>
+&lt;p>Our platform brings several innovations to the contouring process:&lt;/p>
+&lt;h4 id="advanced-ai-models">Advanced AI Models&lt;/h4>
+&lt;ul>
+&lt;li>Trained on extensive medical imaging datasets&lt;/li>
+&lt;li>Real-time contour generation&lt;/li>
+&lt;li>High accuracy and consistency&lt;/li>
+&lt;li>Adaptable to different imaging modalities&lt;/li>
+&lt;/ul>
+&lt;h4 id="quality-assurance">Quality Assurance&lt;/h4>
+&lt;ul>
+&lt;li>Automated verification systems&lt;/li>
+&lt;li>Comparison with established standards&lt;/li>
+&lt;li>Easy manual adjustment capabilities&lt;/li>
+&lt;li>Version control and tracking&lt;/li>
+&lt;/ul>
+&lt;h4 id="integration-features">Integration Features&lt;/h4>
+&lt;ul>
+&lt;li>Seamless PACS integration&lt;/li>
+&lt;li>Support for multiple imaging formats&lt;/li>
+&lt;li>Real-time collaboration tools&lt;/li>
+&lt;li>Efficient workflow management&lt;/li>
+&lt;/ul>
+&lt;h2 id="clinical-impact">Clinical Impact&lt;/h2>
+&lt;p>The implementation of Med.AI&amp;rsquo;s auto-contouring has shown:&lt;/p></description></item></channel></rss>

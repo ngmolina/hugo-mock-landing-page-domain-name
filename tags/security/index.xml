@@ -1,20 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Security on Med.AI</title>
-    <link>https://ngmolina.github.io/hugo-mock-landing-page/tags/security/</link>
-    <description>Recent content in Security on Med.AI</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <copyright>Nicholas Molina</copyright>
-    <lastBuildDate>Tue, 11 Feb 2025 00:47:58 -0500</lastBuildDate>
-    <atom:link href="https://ngmolina.github.io/hugo-mock-landing-page/tags/security/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Med.AI&#39;s Approach to HIPAA Compliance and Data Security</title>
-      <link>https://ngmolina.github.io/hugo-mock-landing-page/post/hipaa-data-security/</link>
-      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://ngmolina.github.io/hugo-mock-landing-page/post/hipaa-data-security/</guid>
-      <description>&lt;p&gt;In healthcare technology, security isn&amp;rsquo;t just a feature—it&amp;rsquo;s a fundamental requirement. Med.AI takes a comprehensive approach to ensuring HIPAA compliance and data security.&lt;/p&gt;&#xA;&lt;h2 id=&#34;our-security-framework&#34;&gt;Our Security Framework&lt;/h2&gt;&#xA;&lt;h3 id=&#34;data-protection&#34;&gt;Data Protection&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;End-to-end encryption&lt;/li&gt;&#xA;&lt;li&gt;Secure data transmission&lt;/li&gt;&#xA;&lt;li&gt;Protected health information (PHI) safeguards&lt;/li&gt;&#xA;&lt;li&gt;Regular security audits&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;hipaa-compliance&#34;&gt;HIPAA Compliance&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Strict access controls&lt;/li&gt;&#xA;&lt;li&gt;Audit trail maintenance&lt;/li&gt;&#xA;&lt;li&gt;Data anonymization&lt;/li&gt;&#xA;&lt;li&gt;Secure cloud storage&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;technical-implementation&#34;&gt;Technical Implementation&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;AWS secure infrastructure&lt;/li&gt;&#xA;&lt;li&gt;Role-based access control&lt;/li&gt;&#xA;&lt;li&gt;Automated compliance checking&lt;/li&gt;&#xA;&lt;li&gt;Regular security updates&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;privacy-measures&#34;&gt;Privacy Measures&lt;/h2&gt;&#xA;&lt;h3 id=&#34;data-handling&#34;&gt;Data Handling&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Automated anonymization&lt;/li&gt;&#xA;&lt;li&gt;Secure data processing&lt;/li&gt;&#xA;&lt;li&gt;Limited data retention&lt;/li&gt;&#xA;&lt;li&gt;Controlled access protocols&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;user-authentication&#34;&gt;User Authentication&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Multi-factor authentication&lt;/li&gt;&#xA;&lt;li&gt;Session management&lt;/li&gt;&#xA;&lt;li&gt;Activity monitoring&lt;/li&gt;&#xA;&lt;li&gt;Secure password policies&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;ongoing-commitment&#34;&gt;Ongoing Commitment&lt;/h2&gt;&#xA;&lt;p&gt;We continuously:&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Security on Med.AI</title><link>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/tags/security/</link><description>Recent content in Security on Med.AI</description><generator>Hugo</generator><language>en</language><copyright>Nicholas Molina</copyright><lastBuildDate>Fri, 28 Feb 2025 20:23:33 +0000</lastBuildDate><atom:link href="https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/tags/security/index.xml" rel="self" type="application/rss+xml"/><item><title>Med.AI's Approach to HIPAA Compliance and Data Security</title><link>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/post/hipaa-data-security/</link><pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate><guid>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/post/hipaa-data-security/</guid><description>&lt;p>In healthcare technology, security isn&amp;rsquo;t just a feature—it&amp;rsquo;s a fundamental requirement. Med.AI takes a comprehensive approach to ensuring HIPAA compliance and data security.&lt;/p>
+&lt;h2 id="our-security-framework">Our Security Framework&lt;/h2>
+&lt;h3 id="data-protection">Data Protection&lt;/h3>
+&lt;ul>
+&lt;li>End-to-end encryption&lt;/li>
+&lt;li>Secure data transmission&lt;/li>
+&lt;li>Protected health information (PHI) safeguards&lt;/li>
+&lt;li>Regular security audits&lt;/li>
+&lt;/ul>
+&lt;h3 id="hipaa-compliance">HIPAA Compliance&lt;/h3>
+&lt;ul>
+&lt;li>Strict access controls&lt;/li>
+&lt;li>Audit trail maintenance&lt;/li>
+&lt;li>Data anonymization&lt;/li>
+&lt;li>Secure cloud storage&lt;/li>
+&lt;/ul>
+&lt;h3 id="technical-implementation">Technical Implementation&lt;/h3>
+&lt;ul>
+&lt;li>AWS secure infrastructure&lt;/li>
+&lt;li>Role-based access control&lt;/li>
+&lt;li>Automated compliance checking&lt;/li>
+&lt;li>Regular security updates&lt;/li>
+&lt;/ul>
+&lt;h2 id="privacy-measures">Privacy Measures&lt;/h2>
+&lt;h3 id="data-handling">Data Handling&lt;/h3>
+&lt;ul>
+&lt;li>Automated anonymization&lt;/li>
+&lt;li>Secure data processing&lt;/li>
+&lt;li>Limited data retention&lt;/li>
+&lt;li>Controlled access protocols&lt;/li>
+&lt;/ul>
+&lt;h3 id="user-authentication">User Authentication&lt;/h3>
+&lt;ul>
+&lt;li>Multi-factor authentication&lt;/li>
+&lt;li>Session management&lt;/li>
+&lt;li>Activity monitoring&lt;/li>
+&lt;li>Secure password policies&lt;/li>
+&lt;/ul>
+&lt;h2 id="ongoing-commitment">Ongoing Commitment&lt;/h2>
+&lt;p>We continuously:&lt;/p></description></item></channel></rss>

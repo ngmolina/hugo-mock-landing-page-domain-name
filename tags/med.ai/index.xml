@@ -1,20 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Med.AI</title>
-    <link>https://ngmolina.github.io/hugo-mock-landing-page/tags/med.ai/</link>
-    <description>Recent content on Med.AI</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <copyright>Nicholas Molina</copyright>
-    <lastBuildDate>Tue, 11 Feb 2025 00:46:13 -0500</lastBuildDate>
-    <atom:link href="https://ngmolina.github.io/hugo-mock-landing-page/tags/med.ai/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Introducing Med.AI: Revolutionizing Radiation Oncology Workflows</title>
-      <link>https://ngmolina.github.io/hugo-mock-landing-page/post/introducing-med-ai/</link>
-      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://ngmolina.github.io/hugo-mock-landing-page/post/introducing-med-ai/</guid>
-      <description>&lt;p&gt;Med.AI emerges as a transformative solution in radiation oncology, combining cutting-edge AI technology with clinical workflows to enhance patient care and improve operational efficiency.&lt;/p&gt;&#xA;&lt;h2 id=&#34;our-mission&#34;&gt;Our Mission&lt;/h2&gt;&#xA;&lt;p&gt;At Med.AI, we&amp;rsquo;re committed to revolutionizing radiation oncology through intelligent automation. Our platform integrates seamlessly with existing clinical systems while introducing powerful AI capabilities that assist medical professionals in multiple aspects of their workflow.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;&#xA;&lt;h3 id=&#34;smart-patient-documentation&#34;&gt;Smart Patient Documentation&lt;/h3&gt;&#xA;&lt;p&gt;Using advanced Language Learning Models (LLMs), Med.AI automates the creation of patient documentation, generating accurate and concise medical summaries.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Med.AI</title><link>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/tags/med.ai/</link><description>Recent content on Med.AI</description><generator>Hugo</generator><language>en</language><copyright>Nicholas Molina</copyright><lastBuildDate>Fri, 28 Feb 2025 20:23:33 +0000</lastBuildDate><atom:link href="https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/tags/med.ai/index.xml" rel="self" type="application/rss+xml"/><item><title>Introducing Med.AI: Revolutionizing Radiation Oncology Workflows</title><link>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/post/introducing-med-ai/</link><pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate><guid>https://ngmolina.github.io/hugo-mock-landing-page-autodeployed/post/introducing-med-ai/</guid><description>&lt;p>Med.AI emerges as a transformative solution in radiation oncology, combining cutting-edge AI technology with clinical workflows to enhance patient care and improve operational efficiency.&lt;/p>
+&lt;h2 id="our-mission">Our Mission&lt;/h2>
+&lt;p>At Med.AI, we&amp;rsquo;re committed to revolutionizing radiation oncology through intelligent automation. Our platform integrates seamlessly with existing clinical systems while introducing powerful AI capabilities that assist medical professionals in multiple aspects of their workflow.&lt;/p>
+&lt;h2 id="key-features">Key Features&lt;/h2>
+&lt;h3 id="smart-patient-documentation">Smart Patient Documentation&lt;/h3>
+&lt;p>Using advanced Language Learning Models (LLMs), Med.AI automates the creation of patient documentation, generating accurate and concise medical summaries.&lt;/p></description></item></channel></rss>
