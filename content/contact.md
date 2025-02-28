@@ -29,7 +29,7 @@ Department of Radiation Oncology
 Philadelphia, PA
 
 ## Connect
-For technical questions or support, please [open an issue](https://github.com/ngmolina/med-ai/issues/new) on our GitHub repository.
+For technical questions or support, please [Open an issue](https://github.com/ngmolina/hugo-mock-landing-page-autodeployed/issues/new) on GitHub. on our GitHub repository.
 
 For medical or clinical inquiries, please contact Professor Rafe McBeth through Penn Medicine's Department of Radiation Oncology.
 
