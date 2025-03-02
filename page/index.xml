@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Docs on Med.AI</title><link>https://ngmolina.github.io/hugo-mock-landing-page-domain-name/page/</link><description>Recent content in Docs on Med.AI</description><generator>Hugo</generator><language>en</language><copyright>Nicholas Molina</copyright><atom:link href="https://ngmolina.github.io/hugo-mock-landing-page-domain-name/page/index.xml" rel="self" type="application/rss+xml"/><item><title>Auto-Contouring Agent</title><link>https://ngmolina.github.io/hugo-mock-landing-page-domain-name/page/contouring-agent/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ngmolina.github.io/hugo-mock-landing-page-domain-name/page/contouring-agent/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Docs on Med.AI</title><link>https://ngmolina.com/page/</link><description>Recent content in Docs on Med.AI</description><generator>Hugo</generator><language>en</language><copyright>Nicholas Molina</copyright><atom:link href="https://ngmolina.com/page/index.xml" rel="self" type="application/rss+xml"/><item><title>Auto-Contouring Agent</title><link>https://ngmolina.com/page/contouring-agent/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ngmolina.com/page/contouring-agent/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
 &lt;p>The Auto-Contouring Agent employs state-of-the-art artificial intelligence to automate and optimize the contouring process in radiation treatment planning. This sophisticated system helps clinicians save time while maintaining high accuracy in defining treatment areas.&lt;/p>
 &lt;h2 id="key-features">Key Features&lt;/h2>
 &lt;h3 id="automated-contouring">Automated Contouring&lt;/h3>
@@ -40,7 +40,7 @@
 &lt;h2 id="clinical-applications">Clinical Applications&lt;/h2>
 &lt;ol>
 &lt;li>
-&lt;p>&lt;strong>Treatment Planning&lt;/strong>&lt;/p></description></item><item><title>Patient Intake &amp; Documentation Agent</title><link>https://ngmolina.github.io/hugo-mock-landing-page-domain-name/page/patient-intake-agent/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ngmolina.github.io/hugo-mock-landing-page-domain-name/page/patient-intake-agent/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>&lt;strong>Treatment Planning&lt;/strong>&lt;/p></description></item><item><title>Patient Intake &amp; Documentation Agent</title><link>https://ngmolina.com/page/patient-intake-agent/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ngmolina.com/page/patient-intake-agent/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
 &lt;p>The Patient Intake Agent streamlines the documentation process in radiation oncology by leveraging advanced Language Learning Models (LLMs). This intelligent system processes patient records, generates concise summaries, and helps maintain accurate documentation while saving valuable clinical time.&lt;/p>
 &lt;h2 id="key-features">Key Features&lt;/h2>
 &lt;h3 id="multiple-ai-model-support">Multiple AI Model Support&lt;/h3>
@@ -88,7 +88,7 @@
 &lt;h2 id="benefits">Benefits&lt;/h2>
 &lt;ol>
 &lt;li>
-&lt;p>&lt;strong>Time Savings&lt;/strong>&lt;/p></description></item><item><title>Treatment Planning Agent</title><link>https://ngmolina.github.io/hugo-mock-landing-page-domain-name/page/treatment-planning-agent/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ngmolina.github.io/hugo-mock-landing-page-domain-name/page/treatment-planning-agent/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>&lt;strong>Time Savings&lt;/strong>&lt;/p></description></item><item><title>Treatment Planning Agent</title><link>https://ngmolina.com/page/treatment-planning-agent/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ngmolina.com/page/treatment-planning-agent/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
 &lt;p>The Treatment Planning Agent leverages artificial intelligence to optimize radiation therapy treatment plans. By analyzing patient data, imaging, and contours, this system helps create precise and efficient treatment strategies while maintaining optimal dose distribution.&lt;/p>
 &lt;h2 id="key-features">Key Features&lt;/h2>
 &lt;h3 id="intelligent-planning">Intelligent Planning&lt;/h3>
